@@ -1,5 +1,5 @@
 """Import only selected public images; the Unreal project stays outside this repo."""
-import argparse,json
+import argparse,json,hashlib
 from pathlib import Path
 from PIL import Image
 parser=argparse.ArgumentParser();parser.add_argument('--source-project',required=True);parser.add_argument('--renders-dir')
@@ -20,7 +20,7 @@ for key,concept,game in rows:
             image=image.convert('RGB');image.thumbnail((1400,1000),Image.Resampling.LANCZOS)
             name=f'{key}-{role}';destination=target/(name+'.webp')
             image.save(destination,'WEBP',quality=86,method=6)
-            manifest[name]={'path':'assets/media/'+name+'.webp','width':image.width,'height':image.height}
+            manifest[name]={'path':'assets/media/'+name+'.webp','width':image.width,'height':image.height,'revision':hashlib.sha256(destination.read_bytes()).hexdigest()[:12]}
             optimized+=destination.stat().st_size
 with Image.open(concepts/rows[0][1]) as image:
     image=image.convert('RGB');image.thumbnail((1200,675),Image.Resampling.LANCZOS)

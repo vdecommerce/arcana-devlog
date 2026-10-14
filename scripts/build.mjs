@@ -14,8 +14,9 @@ const url=route=>base+route;
 const full=route=>new URL(route,site.url).href;
 const date=value=>new Intl.DateTimeFormat('nl-NL',{day:'numeric',month:'long',year:'numeric',timeZone:'Europe/Amsterdam'}).format(new Date(value+'T12:00:00Z'));
 fs.cpSync(path.join(root,'public'),out,{recursive:true});
-const img=(key,{alt='',eager=false,className=''}={})=>{const m=media[key];if(!m)throw Error('Missing image '+key);return `<img src="${url(m.path)}" width="${m.width}" height="${m.height}" alt="${esc(alt)}" ${eager?'fetchpriority="high"':'loading="lazy"'} decoding="async"${className?` class="${className}"`:''}>`;};
-const imageLink=(key,label)=>`<a class="comparison-link" href="${url(media[key].path)}" data-lightbox data-label="${esc(label)}" aria-label="Vergroot: ${esc(label)}">${img(key,{alt:label})}</a>`;
+const mediaUrl=key=>{const m=media[key];if(!m)throw Error('Missing image '+key);return url(m.path)+(m.revision?'?v='+m.revision:'');};
+const img=(key,{alt='',eager=false,className=''}={})=>{const m=media[key];if(!m)throw Error('Missing image '+key);return `<img src="${mediaUrl(key)}" width="${m.width}" height="${m.height}" alt="${esc(alt)}" ${eager?'fetchpriority="high"':'loading="lazy"'} decoding="async"${className?` class="${className}"`:''}>`;};
+const imageLink=(key,label)=>`<a class="comparison-link" href="${mediaUrl(key)}" data-lightbox data-label="${esc(label)}" aria-label="Vergroot: ${esc(label)}">${img(key,{alt:label})}</a>`;
 const nav=(active)=>[['','De reis'],['werelden/','Werelden'],['devblog/','Devblog'],['testen/','Testen']].map(([route,label])=>`<a href="${url(route)}"${active===route?' aria-current="page"':''}>${label}</a>`).join('');
 const layout=({title,description=site.description,route='',active=route,body,image='assets/media/share.jpg',article=false})=>`<!doctype html>
 <html lang="nl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#0c121b">

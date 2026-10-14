@@ -2,81 +2,97 @@
   "saturn-concept": {
     "path": "assets/media/saturn-concept.webp",
     "width": 1400,
-    "height": 788
+    "height": 788,
+    "revision": "22e450b1b1ce"
   },
   "saturn-game": {
     "path": "assets/media/saturn-game.webp",
     "width": 888,
-    "height": 500
+    "height": 500,
+    "revision": "d95325aa05be"
   },
   "venus-concept": {
     "path": "assets/media/venus-concept.webp",
     "width": 1400,
-    "height": 788
+    "height": 788,
+    "revision": "c7dd2a69b5e1"
   },
   "venus-game": {
     "path": "assets/media/venus-game.webp",
     "width": 888,
-    "height": 500
+    "height": 500,
+    "revision": "29c64cb30ed6"
   },
   "jupiter-concept": {
     "path": "assets/media/jupiter-concept.webp",
     "width": 1400,
-    "height": 788
+    "height": 788,
+    "revision": "6d225bd97d74"
   },
   "jupiter-game": {
     "path": "assets/media/jupiter-game.webp",
     "width": 888,
-    "height": 500
+    "height": 500,
+    "revision": "597b402238de"
   },
   "mercury-concept": {
     "path": "assets/media/mercury-concept.webp",
     "width": 1400,
-    "height": 788
+    "height": 788,
+    "revision": "9c82c72738e0"
   },
   "mercury-game": {
     "path": "assets/media/mercury-game.webp",
     "width": 888,
-    "height": 500
+    "height": 500,
+    "revision": "e5d947fdc73e"
   },
   "mars-concept": {
     "path": "assets/media/mars-concept.webp",
     "width": 1400,
-    "height": 788
+    "height": 788,
+    "revision": "52dfce25df65"
   },
   "mars-game": {
     "path": "assets/media/mars-game.webp",
     "width": 888,
-    "height": 500
+    "height": 500,
+    "revision": "64390c886281"
   },
   "moon-concept": {
     "path": "assets/media/moon-concept.webp",
     "width": 1400,
-    "height": 788
+    "height": 788,
+    "revision": "b7b124e1789e"
   },
   "moon-game": {
     "path": "assets/media/moon-game.webp",
     "width": 888,
-    "height": 500
+    "height": 500,
+    "revision": "94707f33e754"
   },
   "sun-concept": {
     "path": "assets/media/sun-concept.webp",
     "width": 1400,
-    "height": 788
+    "height": 788,
+    "revision": "5aabadcd7292"
   },
   "sun-game": {
     "path": "assets/media/sun-game.webp",
     "width": 888,
-    "height": 500
+    "height": 500,
+    "revision": "7f0a9c9c4be1"
   },
   "earth-concept": {
     "path": "assets/media/earth-concept.webp",
     "width": 1400,
-    "height": 788
+    "height": 788,
+    "revision": "3f5a773319f3"
   },
   "earth-game": {
     "path": "assets/media/earth-game.webp",
     "width": 888,
-    "height": 500
+    "height": 500,
+    "revision": "59878bb227bc"
   }
 }
