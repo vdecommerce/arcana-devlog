@@ -32,7 +32,7 @@
         "title": "Wat gecontroleerd is, en wat nog openstaat",
         "paragraphs": [
           "Zestien automatische native tests slagen, inclusief een nieuwe controle op de plantengroepen. De menucontrole reist met gesimuleerde controllerknoppen langs alle acht werelden en terug. De opgeslagen voortgang blijft gelijk. Nieuwe Windows-spelbeelden en botsingscontroles zijn voor alle acht werelden gemaakt. De Android-cook en build slagen.",
-          "Build 16 is gepubliceerd op het bestaande privé-ALPHA-kanaal voor de Quest 3-familie. Meta’s automatische controles lopen nog; de headsetcontrole staat daarvan los.",
+          "Build 16 is gepubliceerd op het bestaande privé-ALPHA-kanaal voor de Quest 3-familie. Meta’s automatische controles zijn voltooid; de headsetcontrole staat daarvan los.",
           "AAA blijft het kwaliteitsdoel. Een stabiele Quest-framerate na opwarming, materialen van dichtbij, overtuigender proefobjecten, routeopbouw en kleding van de gidsen blijven expliciete werkpunten. De PersonaPlex-proef met de Kluizenaar vraagt voorlopig nog de pc-audiobrug."
         ]
       }
@@ -70,7 +70,7 @@
       {
         "title": "Build 15 op het Meta-testkanaal",
         "paragraphs": [
-          "Build 15 is op 14 oktober geüpload en gepubliceerd in het bestaande privé-ALPHA-kanaal voor de Quest 3-familie. Het wereldmenu en de grafische verbeteringen uit de vorige ronde zitten in deze update. Meta’s automatische tests lopen nog; bediening, beeld en prestaties op de headset zijn nog niet bevestigd.",
+          "Build 15 is op 14 oktober geüpload en gepubliceerd in het bestaande privé-ALPHA-kanaal voor de Quest 3-familie. Het wereldmenu en de grafische verbeteringen uit de vorige ronde zitten in deze update. Meta’s automatische tests voor deze build zijn voltooid; bediening, beeld en prestaties op de headset zijn nog niet bevestigd.",
           "De lokale USB-versie en de Meta-uitgifte gebruiken verschillende ondertekeningen. De overstap op de huidige testheadset vraagt daarom nog een gecontroleerde migratie met een voortgangsback-up. De PersonaPlex-proef met de Kluizenaar gebruikt bovendien nog de pc-audiobrug."
         ]
       }
