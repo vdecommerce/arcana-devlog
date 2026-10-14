@@ -110,5 +110,21 @@
     "width": 1400,
     "height": 788,
     "revision": "052ef45dd88d"
+  },
+  "venus-game-build-14": {
+    "path": "assets/media/venus-game-build-14.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "43a985abffb4",
+    "historical": true,
+    "buildVersion": 14
+  },
+  "world-menu-game-build-15": {
+    "path": "assets/media/world-menu-game-build-15.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "996dba13ff52",
+    "historical": true,
+    "buildVersion": 15
   }
 }

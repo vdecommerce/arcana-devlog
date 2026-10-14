@@ -1,10 +1,48 @@
 [
   {
+    "slug": "rechtstreeks-reizen-tussen-de-acht-werelden",
+    "title": "Rechtstreeks reizen tussen de acht werelden",
+    "date": "2026-10-14",
+    "category": "Gameplay",
+    "image": "world-menu-game-build-15",
+    "excerpt": "Een wereldmenu voor de Quest maakt alle acht levels rechtstreeks bereikbaar. Puzzelvoortgang blijft behouden; de bediening op de headset moet nog worden bevestigd.",
+    "sections": [
+      {
+        "title": "Alle werelden binnen handbereik",
+        "paragraphs": [
+          "Open het menu met de linker menuknop of door de linker stick in te drukken. Beweeg een stick omhoog of omlaag om een wereld te kiezen, druk rechts op A om te reizen en gebruik B om het paneel te sluiten. Je huidige wereld is gemarkeerd met HIER.",
+          "Het paneel verschijnt 1,6 meter voor je en blijft op zijn plek wanneer je je hoofd draait. Tijdens het kiezen zijn lopen, draaien met de stick, grijpen en gespreksknoppen geblokkeerd. Een vastgehouden proefobject wordt bij openen losgelaten."
+        ]
+      },
+      {
+        "title": "Vrij reizen, dezelfde proeven",
+        "paragraphs": [
+          "Het menu is bedoeld om snel tussen de ontwikkelwerelden te wisselen. Puzzelvoortgang en keuzes blijven behouden. De proeven houden hun vereisten, waardoor een latere wereld nog om een eerdere proef kan vragen.",
+          "Een korte overgang naar zwart leidt naar de gekozen wereld. Actieve microfooninvoer stopt bij openen van het menu; bij reizen wordt het gesprek afgesloten en begint de normale voorbereiding van het nieuwe level."
+        ]
+      },
+      {
+        "title": "Wat er gecontroleerd is",
+        "paragraphs": [
+          "Vijftien native proeftests en menutests slagen. Een afzonderlijke controle met gesimuleerde controllerknoppen opent het menu, kiest met de navigatieknoppen en reist met A langs alle acht werelden en terug naar Saturnus. De opgeslagen voortgang blijft tijdens deze Windows-controle gelijk.",
+          "Het beeld bovenaan is een echte Windows-spelrender van build 15. De Android-build is geslaagd. Leesbaarheid, controllercomfort en framerate op de Quest vragen nog een headsetcontrole."
+        ]
+      },
+      {
+        "title": "De volgende testbuild",
+        "paragraphs": [
+          "Build 15 bevat het wereldmenu en de grafische verbeteringen uit de vorige ronde. Het pakket voor het privétestkanaal van Meta is voorbereid met de bestaande Meta-ondertekening. De upload en beschikbaarheid op Meta zijn nog niet bevestigd.",
+          "De lokale USB-versie en de Meta-uitgifte gebruiken verschillende ondertekeningen. De overstap op de huidige testheadset vraagt daarom nog een gecontroleerde migratie met een voortgangsback-up. De PersonaPlex-proef met de Kluizenaar gebruikt bovendien nog de pc-audiobrug."
+        ]
+      }
+    ]
+  },
+  {
     "slug": "een-eigen-vorm-voor-iedere-wereld",
     "title": "Een eigen vorm voor iedere wereld",
     "date": "2026-10-14",
     "category": "Art direction",
-    "image": "venus-game",
+    "image": "venus-game-build-14",
     "excerpt": "Nieuwe zuilen, herkenbare landschappen en beter licht. De derde aankledingronde maakt de verschillen tussen de acht werelden sterker en benoemt wat nog ontbreekt.",
     "sections": [
       {
