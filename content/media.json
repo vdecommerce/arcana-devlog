@@ -1,4 +1,20 @@
 {
+  "moon-game-build-13": {
+    "path": "assets/media/moon-game-build-13.webp",
+    "width": 888,
+    "height": 500,
+    "revision": "94707f33e754",
+    "historical": true,
+    "buildVersion": 13
+  },
+  "saturn-game-build-12": {
+    "path": "assets/media/saturn-game-build-12.webp",
+    "width": 1066,
+    "height": 600,
+    "revision": "4549c5e77dd5",
+    "historical": true,
+    "buildVersion": 12
+  },
   "saturn-concept": {
     "path": "assets/media/saturn-concept.webp",
     "width": 1400,
@@ -7,9 +23,9 @@
   },
   "saturn-game": {
     "path": "assets/media/saturn-game.webp",
-    "width": 888,
-    "height": 500,
-    "revision": "d95325aa05be"
+    "width": 1400,
+    "height": 788,
+    "revision": "b1b5f7ec2e65"
   },
   "venus-concept": {
     "path": "assets/media/venus-concept.webp",
@@ -19,9 +35,9 @@
   },
   "venus-game": {
     "path": "assets/media/venus-game.webp",
-    "width": 888,
-    "height": 500,
-    "revision": "29c64cb30ed6"
+    "width": 1400,
+    "height": 788,
+    "revision": "43a985abffb4"
   },
   "jupiter-concept": {
     "path": "assets/media/jupiter-concept.webp",
@@ -31,9 +47,9 @@
   },
   "jupiter-game": {
     "path": "assets/media/jupiter-game.webp",
-    "width": 888,
-    "height": 500,
-    "revision": "597b402238de"
+    "width": 1400,
+    "height": 788,
+    "revision": "dabcfe58132d"
   },
   "mercury-concept": {
     "path": "assets/media/mercury-concept.webp",
@@ -43,9 +59,9 @@
   },
   "mercury-game": {
     "path": "assets/media/mercury-game.webp",
-    "width": 888,
-    "height": 500,
-    "revision": "e5d947fdc73e"
+    "width": 1400,
+    "height": 788,
+    "revision": "c8ae64a15208"
   },
   "mars-concept": {
     "path": "assets/media/mars-concept.webp",
@@ -55,9 +71,9 @@
   },
   "mars-game": {
     "path": "assets/media/mars-game.webp",
-    "width": 888,
-    "height": 500,
-    "revision": "64390c886281"
+    "width": 1400,
+    "height": 788,
+    "revision": "caa43fa7fc1f"
   },
   "moon-concept": {
     "path": "assets/media/moon-concept.webp",
@@ -67,9 +83,9 @@
   },
   "moon-game": {
     "path": "assets/media/moon-game.webp",
-    "width": 888,
-    "height": 500,
-    "revision": "94707f33e754"
+    "width": 1400,
+    "height": 788,
+    "revision": "b7462a36547f"
   },
   "sun-concept": {
     "path": "assets/media/sun-concept.webp",
@@ -79,9 +95,9 @@
   },
   "sun-game": {
     "path": "assets/media/sun-game.webp",
-    "width": 888,
-    "height": 500,
-    "revision": "7f0a9c9c4be1"
+    "width": 1400,
+    "height": 788,
+    "revision": "1731ac9361b8"
   },
   "earth-concept": {
     "path": "assets/media/earth-concept.webp",
@@ -91,8 +107,8 @@
   },
   "earth-game": {
     "path": "assets/media/earth-game.webp",
-    "width": 888,
-    "height": 500,
-    "revision": "59878bb227bc"
+    "width": 1400,
+    "height": 788,
+    "revision": "052ef45dd88d"
   }
 }

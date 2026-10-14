@@ -1,10 +1,48 @@
 [
   {
+    "slug": "een-eigen-vorm-voor-iedere-wereld",
+    "title": "Een eigen vorm voor iedere wereld",
+    "date": "2026-10-14",
+    "category": "Art direction",
+    "image": "venus-game",
+    "excerpt": "Nieuwe zuilen, herkenbare landschappen en beter licht. De derde aankledingronde maakt de verschillen tussen de acht werelden sterker en benoemt wat nog ontbreekt.",
+    "sections": [
+      {
+        "title": "Eerst de zwakke plekken aanpakken",
+        "paragraphs": [
+          "De hemel gaf iedere wereld al een eigen sfeer, maar de architectuur bleef te veel hetzelfde. Uitstekende metalen platen en uniforme zuilenrijen maakten de proeven minder herkenbaar. De landschappen toonden bovendien nog een debugmasker, waardoor hellingen wit bleven. Die weergave is hersteld.",
+          "Deze ronde richt zich op de basis: bouwvorm, steen, bestrating, beplanting en licht. Er zijn minder losse decorstukken dan voorheen, maar de bouwdelen sluiten beter op elkaar aan. Achttien grotere bomen geven de tuinwerelden meer hoogte en diepte."
+        ]
+      },
+      {
+        "title": "Iedere proef een eigen ruimte",
+        "paragraphs": [
+          "Venus en Mercurius krijgen open tuinzuilen. Jupiter gebruikt een gebogen opstelling met een ronde vloerinleg. Mars behoudt juist onderbroken ruïnezuilen en donker ijzer. De Maan krijgt slankere zilveren zuilen; het grote massieve proefbord is vervangen door een open omlijsting. Het Gouden Midden heeft zwaardere zuilen en gouden details.",
+          "De stenen waterbassins op de Maan en Mercurius zijn groter. Ze vormen een eerste stap richting de waterwerelden uit de conceptart; brede meren, overtuigende waterbeweging en weerspiegelingen blijven nog werk voor een volgende ronde."
+        ]
+      },
+      {
+        "title": "Licht helpt het verhaal",
+        "paragraphs": [
+          "Bij de Kluizenaar is de uitgeschakelde nachtverlichting hersteld en Saturnus kleiner gemaakt. Het orbitale platform heeft een vloeiend ronde gouden rand. De aangepaste lichtinval maakt de aardzijde en de vloer veel beter zichtbaar.",
+          "Enkele belangrijke bouwdelen mogen nu schaduwen werpen. Per level zijn dat maximaal acht nieuwe architectuurstukken; de nieuwe planten blijven zonder extra schaduwen. Dit is een beperkte keuze voor meer diepte, waarvan de daadwerkelijke kosten op de Quest nog moeten worden gemeten."
+        ]
+      },
+      {
+        "title": "De kwaliteitslat blijft hoger liggen",
+        "paragraphs": [
+          "AAA is de ambitie voor de art direction, geen beoordeling die deze levels al verdienen. De centrale proefobjecten, terreinverbindingen, beplanting, water en leesbaarheid op echte VR-schaal vragen verdere uitwerking. Iedere wereldpagina vermeldt daarom ook de volgende artpass.",
+          "Alle acht levels zijn opnieuw gecontroleerd met echte Windows-spelrenders. De decoratiecontrole meldt geen botsingen. Dertien native proeftests, zes loopcontroles en de levelwisselcontrole slagen. Android-testbuild 14 is voorbereid; installatie, headsetbeelden en framerate wachten op een USB-verbinding."
+        ]
+      }
+    ]
+  },
+  {
     "slug": "iedere-wereld-een-eigen-hemel",
     "title": "Iedere wereld krijgt een eigen hemel",
     "date": "2026-10-14",
     "category": "Werelden",
-    "image": "moon-game",
+    "image": "moon-game-build-13",
     "excerpt": "Eigen planeetkleuren en ringen, nieuwe wolkenprofielen en een rijkere Koperen Tuin. De hemel wordt onderdeel van het karakter van elke wereld.",
     "sections": [
       {
@@ -72,7 +110,7 @@
     "title": "De Kluizenaar krijgt een gesprekstest",
     "date": "2026-10-14",
     "category": "Gesprekken",
-    "image": "saturn-game",
+    "image": "saturn-game-build-12",
     "excerpt": "Een eerste PersonaPlex-proef voor Ealdred, met voorbereiding bij het laden van het level en ruimte voor een doorlopend gesprek.",
     "sections": [
       {

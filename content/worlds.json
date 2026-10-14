@@ -6,12 +6,13 @@
     "number": "I",
     "concept": "saturn-concept",
     "screen": "saturn-game",
-    "decorations": 34,
+    "decorations": 32,
     "color": "#ceb07b",
     "intro": "Een lantaarn op een rotsige heuvel. Een gids die wacht. Beneden begint het pad naar het labyrint.",
     "intent": "Indigo schemering, verweerde steen en warm goud. De Kluizenaar vormt het rustige beginpunt van de reis, met de geringde planeet als anker in de verte.",
-    "current": "De geringde planeet is goudkleurig en hoger in het uitzicht geplaatst. Indigo nachtlicht, rustige wolken en warme lantaarnaccenten begeleiden de Kluizenaar en het bestaande pad.",
-    "buildVersion": 13
+    "current": "De Kluizenaar heeft opnieuw nachtverlichting. Saturnus is kleiner en de ringen overheersen het uitzicht minder. De stenen beschutting werpt nu een schaduw.",
+    "buildVersion": 14,
+    "next": "Meer routeopbouw, een zichtbaar labyrint en rijker gesteente rond de Kluizenaar."
   },
   {
     "slug": "venus",
@@ -20,12 +21,13 @@
     "number": "II",
     "concept": "venus-concept",
     "screen": "venus-game",
-    "decorations": 216,
+    "decorations": 194,
     "color": "#ce997c",
     "intro": "Een open heiligdom van licht gesteente en koper, met kleine tuinen langs de randen.",
     "intent": "Een zachtere wereld waarin bloemen, groen en koper het ritme bepalen. Ruime doorgangen houden de proef overzichtelijk.",
-    "current": "De Koperen Tuin heeft 44 extra decorstukken: klimplanten en rozen bij de zuilen, met koperen plantenbakken langs de randen. Een parelmoeren hemellichaam, middaglicht en lichte nevel vullen de tuin aan.",
-    "buildVersion": 13
+    "current": "Lichte gegroefde zuilen met koperen banden vervangen de hoekige zuilenrij. Groene hellingen, zes grotere bomen en een tegelvloer geven de tuin een duidelijker eigen vorm.",
+    "buildVersion": 14,
+    "next": "Rijkere borders, geloofwaardige klimplanten en een sterker water- en tuinlandschap."
   },
   {
     "slug": "jupiter",
@@ -34,12 +36,13 @@
     "number": "III",
     "concept": "jupiter-concept",
     "screen": "jupiter-game",
-    "decorations": 169,
+    "decorations": 143,
     "color": "#a9bdce",
     "intro": "Koel metaal, hoge zuilen en een open blik op de hemel rondom de proef van Tin.",
     "intent": "Een ruim, ceremonieel plein met lichte steen en ingetogen metalen randen. De compositie brengt de aandacht terug naar het rad.",
-    "current": "Een grote gaswereld met duidelijke banden en een subtiele ring verschijnt boven het plein van Tin. Meer wolken en een hoger wolkentempo geven de ruime, koele omgeving beweging.",
-    "buildVersion": 13
+    "current": "De zuilen staan nu langs een gebogen kroonlijst rond het plein. Koele steen, tinaccenten en een ronde vloerinleg onderscheiden deze wereld van de tuinlevels.",
+    "buildVersion": 14,
+    "next": "Een overtuigender rad, ronde terrassen en fijnere tinornamenten."
   },
   {
     "slug": "mercurius",
@@ -48,12 +51,13 @@
     "number": "IV",
     "concept": "mercury-concept",
     "screen": "mercury-game",
-    "decorations": 173,
+    "decorations": 156,
     "color": "#a9c0a0",
     "intro": "Een atelier onder de open hemel, waar steen, groen en spiegels elkaar ontmoeten.",
     "intent": "Een onderzoekende, alchemistische sfeer. Groene tinten en tuinen verbinden het werkvlak met het landschap.",
-    "current": "Een kleinere verweerde rotswereld staat boven het groene atelier. Heldere middagverlichting, dunne wolken en rustige nevel houden de spiegels en werkvlakken zichtbaar.",
-    "buildVersion": 13
+    "current": "Het atelier heeft een open zuilenopstelling, groene hellingen, zes bomen en twee grotere stenen waterbassins langs de proefruimte.",
+    "buildVersion": 14,
+    "next": "Een herkenbare prismavorm, verfijnde sokkels en leesbare verbindingen tussen de proefstukken."
   },
   {
     "slug": "mars",
@@ -62,12 +66,13 @@
     "number": "V",
     "concept": "mars-concept",
     "screen": "mars-game",
-    "decorations": 129,
+    "decorations": 101,
     "color": "#d29a78",
     "intro": "Donkere steen en warme lichtlijnen rond de proef van IJzer.",
     "intent": "Een soberder landschap met ijzer, basalt en de gloed van sintels. Minder begroeiing geeft de architectuur meer gewicht.",
-    "current": "Het ijzerhof is van donkere schemering naar leesbaarder middaglicht gebracht. Een roestrood hemellichaam, lichte wolken en de bestaande warme accenten geven de sobere architectuur meer karakter.",
-    "buildVersion": 13
+    "current": "De klassieke kroonlijsten zijn verwijderd. Onderbroken ruïnezuilen, donkere steen, roestkleurige hellingen en metalen proefplaten passen beter bij de Hal van IJzer.",
+    "buildVersion": 14,
+    "next": "Gebroken basalt, roestdetails, lokale vuuraccenten en een overtuigender rotswand."
   },
   {
     "slug": "maan",
@@ -76,12 +81,13 @@
     "number": "VI",
     "concept": "moon-concept",
     "screen": "moon-game",
-    "decorations": 177,
+    "decorations": 152,
     "color": "#b9d7e6",
     "intro": "Blauw maanlicht, zilveren details en kleine reflecterende waterkommen.",
     "intent": "Een stille wereld van lichte steen en weerspiegelingen. De waterpartijen in het sfeerbeeld zijn een ontwerpdoel voor verdere uitwerking.",
-    "current": "Een blauwe Aarde hangt boven het zilveren heiligdom. Rustige nachtverlichting en weinig wolken ondersteunen de waterkommen. De grote spiegelmeren uit de conceptart blijven een ontwerpdoel.",
-    "buildVersion": 13
+    "current": "Slanke zilverkleurige zuilen en open omlijstingen houden de boog zichtbaar. Twee langgerekte waterbassins en witte bomen versterken de richting van de Spiegelmeren.",
+    "buildVersion": 14,
+    "next": "Grotere geïntegreerde meren, goede waterweergave en leesbaarheid van alle proefsymbolen in VR."
   },
   {
     "slug": "zon",
@@ -90,12 +96,13 @@
     "number": "VII",
     "concept": "sun-concept",
     "screen": "sun-game",
-    "decorations": 173,
+    "decorations": 150,
     "color": "#dfc481",
     "intro": "Gouden randen en een open, lichte ruimte rond de laatste planeetproef.",
     "intent": "Een warm, helder middenpunt. Goud dient als accent op de steen, met ruimte voor de proef en de speler.",
-    "current": "Een warm goudkleurig hemellichaam geeft het Gouden Midden een herkenbaar uitzicht. Lichte wolken en middaglicht ondersteunen de gouden steen- en metaalaccenten.",
-    "buildVersion": 13
+    "current": "Steviger gevormde gouden zuilen, lichte vloersteen, ronde vloerinleg en vier grotere bomen geven het plein rond de zonnewijzer meer samenhang.",
+    "buildVersion": 14,
+    "next": "Een rijker zonnewijzerobject, verfijnde zonneornamenten en sterkere warme lichtregie."
   },
   {
     "slug": "aarde",
@@ -104,11 +111,12 @@
     "number": "VIII",
     "concept": "earth-concept",
     "screen": "earth-game",
-    "decorations": 64,
+    "decorations": 34,
     "color": "#a0b9d6",
     "intro": "De kromming van de aarde, een kleine observatieplek en het ritme van rustig zweven.",
     "intent": "Een bescheiden toevlucht in een grote ruimte. De planeet krijgt de hoofdrol; de architectuur kadert het uitzicht.",
-    "current": "Rond het bestaande startpunt zijn een cirkelvormig platform, een boog, zuilen en rotsfragmenten geplaatst. De bestaande vluchtbesturing blijft het uitgangspunt.",
-    "buildVersion": 12
+    "current": "Het orbitale platform heeft een doorlopende ronde gouden rand en nieuwe vloerinleg. Het licht valt nu op de zichtbare aardzijde en maakt ook het platform veel beter leesbaar.",
+    "buildVersion": 14,
+    "next": "Een duidelijke aankomst, verfijnde obelisken en een stabiele sterrenhemel. De experimentele sterrenlaag is teruggedraaid; het werkende planeetbeeld blijft behouden."
   }
 ]

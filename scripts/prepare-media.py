@@ -10,7 +10,8 @@ concepts=source/'Branding/ArcanaEchoes/Concepts/LevelDressing-20261014'
 previous_renders=source/'Saved/AgentRuns/level-dressing-20261014/renders'
 renders=Path(args.renders_dir).resolve() if args.renders_dir else previous_renders
 rows=[('saturn','01-Saturn-DesertOfLead.png','Level_1_QuestLink'),('venus','02-Venus-CopperGarden.png','Level_2_Venus'),('jupiter','03-Jupiter-WheelOfTin.png','Level_3_Jupiter'),('mercury','04-Mercury-GreenAtelier.png','Level_4_Mercury'),('mars','05-Mars-HallOfIron.png','Level_5_Mars'),('moon','06-Moon-MirrorLakes.png','Level_6_Moon'),('sun','07-Sun-GoldenCenter.png','Level_7_Sun'),('earth','08-Earth-OrbitalSanctuary.png','Earth')]
-manifest={};original=0;optimized=0
+previous_manifest=json.loads((root/'content/media.json').read_text(encoding='utf-8')) if (root/'content/media.json').exists() else {}
+manifest={key:value for key,value in previous_manifest.items() if value.get('historical')};original=0;optimized=0
 for key,concept,game in rows:
     game_path=renders/(game+'-game.png')
     if key=='earth' and not game_path.exists():game_path=previous_renders/(game+'-game.png')
