@@ -1,5 +1,44 @@
 [
   {
+    "slug": "meer-detail-minder-losse-planten",
+    "title": "Meer detail, minder losse planten",
+    "date": "2026-10-14",
+    "category": "Art en optimalisatie",
+    "image": "moon-game-build-16",
+    "excerpt": "Grotere waterspiegels en eigen planeetsymbolen geven de werelden meer detail. Herhaalde planten worden gegroepeerd, met behoud van hun plaats en materiaal.",
+    "sections": [
+      {
+        "title": "Water langs de heiligdommen",
+        "paragraphs": [
+          "Venus heeft nieuwe ovale tuinbassins. De bassins bij Mercurius en de Maan zijn vergroot tot waterspiegels van ongeveer negen bij dertien meter. Een eigen materiaal geeft het oppervlak rustige, kleine rimpels en houdt de tint per wereld verschillend.",
+          "Het water is ondoorzichtig en gebruikt de bestaande scèneverlichting. Deze versie gebruikt geen extra reflectiecamera. De juiste uitstraling en leesbaarheid van de randen vragen nog een beoordeling van dichtbij in VR. Het beeld bovenaan is een echte Windows-render van build 16."
+        ]
+      },
+      {
+        "title": "Meer herkenning per wereld",
+        "paragraphs": [
+          "Alle acht werelden hebben een eigen metalen planeetsymbool gekregen. De bestaande architectuur, hemelprofielen en proefopstellingen blijven de basis van iedere plek. Extra rand- en spaakgeometrie is toegevoegd aan de raderen van Jupiter en de Zon; hun bestaande grip- en botsingsvorm blijft behouden.",
+          "De nieuwe omgevingsdetails hebben geen botsing en werpen geen extra dynamische schaduwen. Daarmee blijft de route toegankelijk en blijft het bestaande schaduwbudget gelijk. Het blijft een volgende stap in de uitwerking, met ruimte voor betere heldenobjecten en meer eigen karakter in de gidsen."
+        ]
+      },
+      {
+        "title": "Dezelfde planten, minder afzonderlijke componenten",
+        "paragraphs": [
+          "Tijdens het spelen worden 258 herhaalde plantencomponenten vervangen door 30 groepen. Dat zijn 228 minder afzonderlijk getekende componenten over de acht werelden. De plaats, schaal en materialen van de planten blijven behouden.",
+          "In Venus gaat het om 76 plantencomponenten naar 8 groepen. Alleen daarvoor geschikte, ondoorzichtige decorplanten worden gegroepeerd. Interactieve proefobjecten vallen buiten deze optimalisatie. Dit is een gemeten vermindering van rendercomponenten; het is nog geen meting van frameratewinst op Quest."
+        ]
+      },
+      {
+        "title": "Wat gecontroleerd is, en wat nog openstaat",
+        "paragraphs": [
+          "Zestien automatische native tests slagen, inclusief een nieuwe controle op de plantengroepen. De menucontrole reist met gesimuleerde controllerknoppen langs alle acht werelden en terug. De opgeslagen voortgang blijft gelijk. Nieuwe Windows-spelbeelden en botsingscontroles zijn voor alle acht werelden gemaakt. De Android-cook en build slagen.",
+          "Build 16 is gepubliceerd op het bestaande privé-ALPHA-kanaal voor de Quest 3-familie. Meta’s automatische controles lopen nog; de headsetcontrole staat daarvan los.",
+          "AAA blijft het kwaliteitsdoel. Een stabiele Quest-framerate na opwarming, materialen van dichtbij, overtuigender proefobjecten, routeopbouw en kleding van de gidsen blijven expliciete werkpunten. De PersonaPlex-proef met de Kluizenaar vraagt voorlopig nog de pc-audiobrug."
+        ]
+      }
+    ]
+  },
+  {
     "slug": "rechtstreeks-reizen-tussen-de-acht-werelden",
     "title": "Rechtstreeks reizen tussen de acht werelden",
     "date": "2026-10-14",

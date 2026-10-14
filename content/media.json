@@ -25,7 +25,8 @@
     "path": "assets/media/saturn-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "b1b5f7ec2e65"
+    "revision": "983137759cf8",
+    "buildVersion": 16
   },
   "venus-concept": {
     "path": "assets/media/venus-concept.webp",
@@ -37,7 +38,8 @@
     "path": "assets/media/venus-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "43a985abffb4"
+    "revision": "5498daae3eae",
+    "buildVersion": 16
   },
   "jupiter-concept": {
     "path": "assets/media/jupiter-concept.webp",
@@ -49,7 +51,8 @@
     "path": "assets/media/jupiter-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "dabcfe58132d"
+    "revision": "aff986ce8bbd",
+    "buildVersion": 16
   },
   "mercury-concept": {
     "path": "assets/media/mercury-concept.webp",
@@ -61,7 +64,8 @@
     "path": "assets/media/mercury-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "c8ae64a15208"
+    "revision": "b37a68c72520",
+    "buildVersion": 16
   },
   "mars-concept": {
     "path": "assets/media/mars-concept.webp",
@@ -73,7 +77,8 @@
     "path": "assets/media/mars-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "caa43fa7fc1f"
+    "revision": "e9682cfc0746",
+    "buildVersion": 16
   },
   "moon-concept": {
     "path": "assets/media/moon-concept.webp",
@@ -85,7 +90,8 @@
     "path": "assets/media/moon-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "b7462a36547f"
+    "revision": "572af9eabb3c",
+    "buildVersion": 16
   },
   "sun-concept": {
     "path": "assets/media/sun-concept.webp",
@@ -97,7 +103,8 @@
     "path": "assets/media/sun-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "1731ac9361b8"
+    "revision": "a83ec966c3b7",
+    "buildVersion": 16
   },
   "earth-concept": {
     "path": "assets/media/earth-concept.webp",
@@ -109,7 +116,8 @@
     "path": "assets/media/earth-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "052ef45dd88d"
+    "revision": "4a2a2afd92a2",
+    "buildVersion": 16
   },
   "venus-game-build-14": {
     "path": "assets/media/venus-game-build-14.webp",
@@ -126,5 +134,13 @@
     "revision": "10ff54406ab8",
     "historical": true,
     "buildVersion": 15
+  },
+  "moon-game-build-16": {
+    "path": "assets/media/moon-game-build-16.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "572af9eabb3c",
+    "buildVersion": 16,
+    "historical": true
   }
 }
