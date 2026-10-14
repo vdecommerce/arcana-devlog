@@ -1,13 +1,101 @@
 [
- {"slug":"acht-werelden-eerste-aankleding","title":"Van sfeerbeeld naar acht speelwerelden","date":"2026-10-14","category":"Werelden","image":"venus-concept","excerpt":"Acht gegenereerde sfeerbeelden vormen de richting voor de eerste aankleding. Wat staat er al in de game, en wat blijft nog een ontwerpdoel?","sections":[
-  {"title":"Een visuele richting voor elke wereld","paragraphs":["Voor Saturnus, Venus, Jupiter, Mercurius, Mars, Maan, Zon en Aarde is een sfeerbeeld gemaakt. Het zijn gegenereerde conceptbeelden: ze verbeelden de ambitie voor de omgeving en tonen geen gameplay.","De eerste uitwerking gebruikt bestaande stenen, bogen en metaal, aangevuld met eenvoudige plantenmeshes. Iedere wereld heeft een eigen kleurpalet, terwijl de bestaande routes en proeven het uitgangspunt blijven."]},
-  {"title":"Wat er nu staat","paragraphs":["In totaal zijn 1.091 decorstukken toegevoegd. De nieuwe decoratie heeft geen botsingen en werpt geen extra schaduwen. Dat helpt de routes vrij te houden en beperkt de extra belasting; de daadwerkelijke Quest-framerate is hiermee nog niet bevestigd.","De Kluizenaar heeft een stenen beschutting en details rond zijn heuvel gekregen. De planeettexture gebruikt nu een gecentreerde projectie die past bij de bronafbeelding. Voor de hemel gebruikt het Quest-materiaal de bestaande UDS-kleurgradient; de waarschuwing in de desktoprender is daarmee verdwenen."]},
-  {"title":"Wat is gecontroleerd?","paragraphs":["De Android-build is geslaagd en lokale testversie 12 is via USB op de Quest geïnstalleerd. Dertien native proeftests, zes loopcontroles en dertien aankomsten via twaalf expliciete levelwissels zijn geslaagd.","Dat is geen volledige spelerstest. De fysieke portalbediening, headsetweergave en framerate moeten nog op de Quest worden gecontroleerd. Mars blijft in de desktoprender donker, en de grotere waterpartijen uit het Maan-sfeerbeeld zijn nog niet gebouwd."]},
-  {"title":"De volgende uitwerking","paragraphs":["De sfeerbeelden en spelbeelden staan per wereld naast elkaar. Zo wordt zichtbaar wat al is gerealiseerd en waar verder werk nodig is: licht, landschapsdetails en het karakter van iedere omgeving."]}
- ]},
- {"slug":"kluizenaar-personaplex-proef","title":"De Kluizenaar krijgt een gesprekstest","date":"2026-10-14","category":"Gesprekken","image":"saturn-game","excerpt":"Een eerste PersonaPlex-proef voor Ealdred, met voorbereiding bij het laden van het level en ruimte voor een doorlopend gesprek.","sections":[
-  {"title":"Beginnen bij één gids","paragraphs":["De nieuwe gesprekstest is beperkt tot Ealdred, de Kluizenaar in de Woestijn van Lood. De andere NPC’s houden hun bestaande gesprekssysteem. Zo blijft de proef afgebakend.","Het model wordt voorbereid zodra het eerste level begint. Tijdens die voorbereiding blijft de microfoon uit. Pas als het model reageert, kan het gesprek beginnen. Eén druk op A start of stopt de proef; vasthouden is niet nodig."]},
-  {"title":"Wat de tests laten zien","paragraphs":["Twee opeenvolgende tests met een gesimuleerde Engelse vraag gaven audio en tekst van Ealdred terug. De voorbereiding duurde in beide tests ongeveer negen seconden. Twaalf audioprotocoltests slagen.","Eerdere koude starts liepen vast of duurden langer. Deze resultaten zijn daarom geen garantie voor elke nieuwe sessie. Nederlands, de echte Quest-microfoon en hoorbare headsetaudio zijn nog niet gevalideerd."]},
-  {"title":"Nog een technische proef","paragraphs":["De huidige opstelling gebruikt een pc en USB-verbinding. De PersonaPlex-functie is nog niet gereed voor zelfstandig gebruik op de headset.","De proef speelt antwoordaudio en tekst af. Lip-sync, blijvend geheugen en gesproken questacties zijn nog niet gekoppeld. Het spel bepaalt zelf de voortgang; de gesprekstekst voert geen spelacties uit."]}
- ]}
+  {
+    "slug": "iedere-wereld-een-eigen-hemel",
+    "title": "Iedere wereld krijgt een eigen hemel",
+    "date": "2026-10-14",
+    "category": "Werelden",
+    "image": "moon-game",
+    "excerpt": "Eigen planeetkleuren en ringen, nieuwe wolkenprofielen en een rijkere Koperen Tuin. De hemel wordt onderdeel van het karakter van elke wereld.",
+    "sections": [
+      {
+        "title": "Een herkenningspunt boven iedere wereld",
+        "paragraphs": [
+          "De zeven werelden op het oppervlak hebben nu elk een eigen hemelprofiel. Kleur, schaal, positie en ringsterkte van het hemellichaam zijn afzonderlijk afgestemd. Het zijn gestileerde alchemistische werelden; de beelden zijn geen astronomische simulatie.",
+          "Saturnus krijgt goud en grote ringen. Venus gebruikt parelmoer en koper, Jupiter duidelijke gasbanden en Mercurius een kleinere verweerde rotswereld. Mars is roestrood; boven de Maan staat een blauwe Aarde. Het Gouden Midden heeft een warm goudkleurig hemellichaam. De bestaande Aarde vanuit de ruimte behoudt haar uitzicht."
+        ]
+      },
+      {
+        "title": "Licht, wolken en een koperen tuin",
+        "paragraphs": [
+          "Ultra Dynamic Sky en Weather sturen nu per wereld een eigen combinatie van wolken, wind en lichte nevel. De planeet blijft herkenbaar in de hemel. De huidige uitwerking gebruikt geen regen-, sneeuw- of stofdeeltjes.",
+          "Mars had in de eerdere desktopbeelden weinig zichtbare details. Middaglicht maakt het ijzerhof nu leesbaarder. Op Venus zijn 44 decorstukken toegevoegd: klimplanten, rozen en koperen plantenbakken. De nieuwe elementen hebben geen botsingen en staan langs de randen van de route."
+        ]
+      },
+      {
+        "title": "Gecontroleerd, met ruimte voor de volgende test",
+        "paragraphs": [
+          "Alle zeven gewijzigde levels zijn opnieuw gestart voor een echte Windows-spelrender. De decoratiecontrole meldt geen botsingen. De loopcontroles op Venus en Mars slagen. De Android-build slaagt en bevat alle zeven nieuwe hemelmaterialen.",
+          "De nieuwe uitwerking is voorbereid voor lokale testversie 13. De USB-installatie en controle op de headset moeten nog gebeuren; nieuwe headsetweergave, framerate en hoorbare gesprekken zijn nog niet bevestigd. Het buildnummer op het Meta-testkanaal moet afzonderlijk worden gecontroleerd. De wereldpagina’s tonen de nieuwe Windows-beelden naast de oorspronkelijke conceptart."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "acht-werelden-eerste-aankleding",
+    "title": "Van sfeerbeeld naar acht speelwerelden",
+    "date": "2026-10-14",
+    "category": "Werelden",
+    "image": "venus-concept",
+    "excerpt": "Acht gegenereerde sfeerbeelden vormen de richting voor de eerste aankleding. Wat staat er al in de game, en wat blijft nog een ontwerpdoel?",
+    "sections": [
+      {
+        "title": "Een visuele richting voor elke wereld",
+        "paragraphs": [
+          "Voor Saturnus, Venus, Jupiter, Mercurius, Mars, Maan, Zon en Aarde is een sfeerbeeld gemaakt. Het zijn gegenereerde conceptbeelden: ze verbeelden de ambitie voor de omgeving en tonen geen gameplay.",
+          "De eerste uitwerking gebruikt bestaande stenen, bogen en metaal, aangevuld met eenvoudige plantenmeshes. Iedere wereld heeft een eigen kleurpalet, terwijl de bestaande routes en proeven het uitgangspunt blijven."
+        ]
+      },
+      {
+        "title": "Wat er nu staat",
+        "paragraphs": [
+          "In totaal zijn 1.091 decorstukken toegevoegd. De nieuwe decoratie heeft geen botsingen en werpt geen extra schaduwen. Dat helpt de routes vrij te houden en beperkt de extra belasting; de daadwerkelijke Quest-framerate is hiermee nog niet bevestigd.",
+          "De Kluizenaar heeft een stenen beschutting en details rond zijn heuvel gekregen. De planeettexture gebruikt nu een gecentreerde projectie die past bij de bronafbeelding. Voor de hemel gebruikt het Quest-materiaal de bestaande UDS-kleurgradient; de waarschuwing in de desktoprender is daarmee verdwenen."
+        ]
+      },
+      {
+        "title": "Wat is gecontroleerd?",
+        "paragraphs": [
+          "De Android-build is geslaagd en lokale testversie 12 is via USB op de Quest geïnstalleerd. Dertien native proeftests, zes loopcontroles en dertien aankomsten via twaalf expliciete levelwissels zijn geslaagd.",
+          "Dat is geen volledige spelerstest. De fysieke portalbediening, headsetweergave en framerate moeten nog op de Quest worden gecontroleerd. Mars blijft in de desktoprender donker, en de grotere waterpartijen uit het Maan-sfeerbeeld zijn nog niet gebouwd."
+        ]
+      },
+      {
+        "title": "De volgende uitwerking",
+        "paragraphs": [
+          "De sfeerbeelden en spelbeelden staan per wereld naast elkaar. Zo wordt zichtbaar wat al is gerealiseerd en waar verder werk nodig is: licht, landschapsdetails en het karakter van iedere omgeving."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "kluizenaar-personaplex-proef",
+    "title": "De Kluizenaar krijgt een gesprekstest",
+    "date": "2026-10-14",
+    "category": "Gesprekken",
+    "image": "saturn-game",
+    "excerpt": "Een eerste PersonaPlex-proef voor Ealdred, met voorbereiding bij het laden van het level en ruimte voor een doorlopend gesprek.",
+    "sections": [
+      {
+        "title": "Beginnen bij één gids",
+        "paragraphs": [
+          "De nieuwe gesprekstest is beperkt tot Ealdred, de Kluizenaar in de Woestijn van Lood. De andere NPC’s houden hun bestaande gesprekssysteem. Zo blijft de proef afgebakend.",
+          "Het model wordt voorbereid zodra het eerste level begint. Tijdens die voorbereiding blijft de microfoon uit. Pas als het model reageert, kan het gesprek beginnen. Eén druk op A start of stopt de proef; vasthouden is niet nodig."
+        ]
+      },
+      {
+        "title": "Wat de tests laten zien",
+        "paragraphs": [
+          "Twee opeenvolgende tests met een gesimuleerde Engelse vraag gaven audio en tekst van Ealdred terug. De voorbereiding duurde in beide tests ongeveer negen seconden. Twaalf audioprotocoltests slagen.",
+          "Eerdere koude starts liepen vast of duurden langer. Deze resultaten zijn daarom geen garantie voor elke nieuwe sessie. Nederlands, de echte Quest-microfoon en hoorbare headsetaudio zijn nog niet gevalideerd."
+        ]
+      },
+      {
+        "title": "Nog een technische proef",
+        "paragraphs": [
+          "De huidige opstelling gebruikt een pc en USB-verbinding. De PersonaPlex-functie is nog niet gereed voor zelfstandig gebruik op de headset.",
+          "De proef speelt antwoordaudio en tekst af. Lip-sync, blijvend geheugen en gesproken questacties zijn nog niet gekoppeld. Het spel bepaalt zelf de voortgang; de gesprekstekst voert geen spelacties uit."
+        ]
+      }
+    ]
+  }
 ]

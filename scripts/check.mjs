@@ -7,7 +7,10 @@ const dist=path.join(root,'dist');
 const site=JSON.parse(fs.readFileSync(path.join(root,'content/site.json')));
 const base=new URL(site.url).pathname;
 const all=[];function walk(folder){for(const item of fs.readdirSync(folder,{withFileTypes:true})){const file=path.join(folder,item.name);if(item.isDirectory())walk(file);else all.push(file);}}walk(dist);
-const pages=all.filter(p=>p.endsWith('.html'));assert.equal(pages.length,16);
+const worlds=JSON.parse(fs.readFileSync(path.join(root,'content/worlds.json')));
+const posts=JSON.parse(fs.readFileSync(path.join(root,'content/posts.json')));
+const media=JSON.parse(fs.readFileSync(path.join(root,'content/media.json')));
+const pages=all.filter(p=>p.endsWith('.html'));assert.equal(pages.length,6+worlds.length+posts.length);
 const seen=new Set();let links=0;
 for(const file of pages){
   const text=fs.readFileSync(file,'utf8');
@@ -27,5 +30,6 @@ for(const file of pages){
   }
 }
 assert.ok(fs.existsSync(path.join(dist,'robots.txt')));assert.ok(fs.existsSync(path.join(dist,'sitemap.xml')));assert.ok(fs.existsSync(path.join(dist,'feed.xml')));
-assert.equal(all.filter(f=>f.endsWith('.webp')).length,16);
-console.log(JSON.stringify({status:'PASS',pages:pages.length,local_links_and_assets:links,web_images:16,canonicals_unique:true}));
+const webImages=all.filter(f=>f.endsWith('.webp')).length;
+assert.equal(webImages,Object.values(media).filter(m=>m.path.endsWith('.webp')).length);
+console.log(JSON.stringify({status:'PASS',pages:pages.length,local_links_and_assets:links,web_images:webImages,canonicals_unique:true}));
