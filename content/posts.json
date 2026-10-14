@@ -1,5 +1,36 @@
 [
   {
+    "slug": "de-quest-start-weer-op",
+    "title": "De Quest start weer op",
+    "date": "2026-10-15",
+    "category": "Quest en beeldkwaliteit",
+    "image": "venus-game",
+    "excerpt": "Build 18 herstelt de opstartfout op Quest. De atmosfeer werkt, maar de oorspronkelijke UDS-planeten zijn nog niet zichtbaar in de headset.",
+    "sections": [
+      {
+        "title": "De opstartfout hersteld",
+        "paragraphs": [
+          "De vorige testbuild sloot tijdens het starten af. De oorzaak was een verschil tussen de mobiele shaderbuild en de instellingen op de headset. Build 18 is met overeenkomende instellingen gebouwd en via USB op een Quest 3S geïnstalleerd. Een nieuwe buildcontrole voorkomt deze specifieke mismatch.",
+          "De opstartcontrole bevestigt dat de app blijft draaien, het wereldmenu klaarstaat en Venus geladen wordt. De tester bevestigt dat de game laadt en de atmosfeer werkt. Zestien native automatische tests slagen, met één waarschuwing. Dit is geen bevestiging van een volledige fysieke speeltest."
+        ]
+      },
+      {
+        "title": "De oorspronkelijke planeten blijven het doel",
+        "paragraphs": [
+          "De hemel moet aansluiten op de opgeslagen Ultra Dynamic Sky-instellingen in Unreal. De oorspronkelijke planeten zijn volgens de headsettest nog niet zichtbaar. Hun mobiele materiaal- en renderpad wordt daarom verder onderzocht. De planeetweergave is nog geen afgeronde verbetering.",
+          "Het beeld bovenaan komt uit een eerdere Windows-ontwikkelversie en dient als visuele referentie. Het is geen screenshot van build 18 op Quest."
+        ]
+      },
+      {
+        "title": "Wat er op Meta beschikbaar is",
+        "paragraphs": [
+          "Het bestaande privé-ALPHA-kanaal bevat build 16. De lokale USB-build 18 is nog niet naar Meta gepubliceerd. De nieuwe upload wacht op verdere controle van de planetenweergave.",
+          "De verdere afwerking richt zich op de samenhang van de levels, herkenbare proefobjecten, materiaalovergangen en meetbare prestaties op de headset. AAA is een kwaliteitsambitie; de huidige Alpha is nog geen afgeronde productie."
+        ]
+      }
+    ]
+  },
+  {
     "slug": "meer-detail-minder-losse-planten",
     "title": "Meer detail, minder losse planten",
     "date": "2026-10-14",
