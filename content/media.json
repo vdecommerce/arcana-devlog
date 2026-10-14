@@ -1,0 +1,82 @@
+{
+  "saturn-concept": {
+    "path": "assets/media/saturn-concept.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "saturn-game": {
+    "path": "assets/media/saturn-game.webp",
+    "width": 1066,
+    "height": 600
+  },
+  "venus-concept": {
+    "path": "assets/media/venus-concept.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "venus-game": {
+    "path": "assets/media/venus-game.webp",
+    "width": 888,
+    "height": 500
+  },
+  "jupiter-concept": {
+    "path": "assets/media/jupiter-concept.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "jupiter-game": {
+    "path": "assets/media/jupiter-game.webp",
+    "width": 888,
+    "height": 500
+  },
+  "mercury-concept": {
+    "path": "assets/media/mercury-concept.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "mercury-game": {
+    "path": "assets/media/mercury-game.webp",
+    "width": 888,
+    "height": 500
+  },
+  "mars-concept": {
+    "path": "assets/media/mars-concept.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "mars-game": {
+    "path": "assets/media/mars-game.webp",
+    "width": 888,
+    "height": 500
+  },
+  "moon-concept": {
+    "path": "assets/media/moon-concept.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "moon-game": {
+    "path": "assets/media/moon-game.webp",
+    "width": 888,
+    "height": 500
+  },
+  "sun-concept": {
+    "path": "assets/media/sun-concept.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "sun-game": {
+    "path": "assets/media/sun-game.webp",
+    "width": 888,
+    "height": 500
+  },
+  "earth-concept": {
+    "path": "assets/media/earth-concept.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "earth-game": {
+    "path": "assets/media/earth-game.webp",
+    "width": 888,
+    "height": 500
+  }
+}

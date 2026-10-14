@@ -1,0 +1,35 @@
+name: Feedback over Arcana
+description: Deel een ervaring of probleem uit een speltest.
+title: "[Feedback] "
+body:
+  - type: markdown
+    attributes:
+      value: "Bedankt voor het testen. Deze melding is openbaar; voeg geen accountgegevens of persoonlijke gegevens toe."
+  - type: input
+    id: headset
+    attributes:
+      label: Headset of testplatform
+      placeholder: Quest 3, Quest 3S of Windows
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Buildnummer
+      description: Het nummer uit de app of het Meta-kanaal; vul onbekend in als je het niet kunt vinden.
+    validations:
+      required: true
+  - type: dropdown
+    id: world
+    attributes:
+      label: Wereld
+      options: [Saturnus, Venus, Jupiter, Mercurius, Mars, Maan, Zon, Aarde, Algemeen]
+    validations:
+      required: true
+  - type: textarea
+    id: experience
+    attributes:
+      label: Wat gebeurde er?
+      description: Beschrijf je handeling, wat je verwachtte en wat er werkelijk gebeurde. Voeg eventueel een spelbeeld toe.
+    validations:
+      required: true
