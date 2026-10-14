@@ -11,7 +11,7 @@
         "title": "Alle werelden binnen handbereik",
         "paragraphs": [
           "Open het menu met de linker menuknop of door de linker stick in te drukken. Beweeg een stick omhoog of omlaag om een wereld te kiezen, druk rechts op A om te reizen en gebruik B om het paneel te sluiten. Je huidige wereld is gemarkeerd met HIER.",
-          "Het paneel verschijnt 1,6 meter voor je en blijft op zijn plek wanneer je je hoofd draait. Tijdens het kiezen zijn lopen, draaien met de stick, grijpen en gespreksknoppen geblokkeerd. Een vastgehouden proefobject wordt bij openen losgelaten."
+          "Het paneel verschijnt 1,6 meter voor je en blijft op zijn plek wanneer je je hoofd draait. Tijdens het kiezen zijn lopen, draaien met de stick, grijpen en gespreksknoppen geblokkeerd. Een vastgehouden proefobject wordt bij openen losgelaten. Het paneel wordt vóór de omgeving getekend en blijft daardoor ook dicht bij muren zichtbaar; het gesprekspaneel is tijdelijk verborgen."
         ]
       },
       {
@@ -29,9 +29,9 @@
         ]
       },
       {
-        "title": "De volgende testbuild",
+        "title": "Build 15 op het Meta-testkanaal",
         "paragraphs": [
-          "Build 15 bevat het wereldmenu en de grafische verbeteringen uit de vorige ronde. Het pakket voor het privétestkanaal van Meta is voorbereid met de bestaande Meta-ondertekening. De upload en beschikbaarheid op Meta zijn nog niet bevestigd.",
+          "Build 15 is op 14 oktober geüpload en gepubliceerd in het bestaande privé-ALPHA-kanaal voor de Quest 3-familie. Het wereldmenu en de grafische verbeteringen uit de vorige ronde zitten in deze update. Meta’s automatische tests lopen nog; bediening, beeld en prestaties op de headset zijn nog niet bevestigd.",
           "De lokale USB-versie en de Meta-uitgifte gebruiken verschillende ondertekeningen. De overstap op de huidige testheadset vraagt daarom nog een gecontroleerde migratie met een voortgangsback-up. De PersonaPlex-proef met de Kluizenaar gebruikt bovendien nog de pc-audiobrug."
         ]
       }
