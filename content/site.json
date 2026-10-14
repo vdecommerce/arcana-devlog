@@ -10,5 +10,6 @@
   "preparedBuild": 16,
   "metaUploadPending": false,
   "metaBuild": 16,
-  "metaTestsStatus": "completed"
+  "metaTestsStatus": "completed",
+  "questMenuVerified": true
 }

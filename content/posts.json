@@ -33,7 +33,7 @@
         "paragraphs": [
           "Zestien automatische native tests slagen, inclusief een nieuwe controle op de plantengroepen. De menucontrole reist met gesimuleerde controllerknoppen langs alle acht werelden en terug. De opgeslagen voortgang blijft gelijk. Nieuwe Windows-spelbeelden en botsingscontroles zijn voor alle acht werelden gemaakt. De Android-cook en build slagen.",
           "Build 16 is gepubliceerd op het bestaande privé-ALPHA-kanaal voor de Quest 3-familie. Meta’s automatische controles zijn voltooid; de headsetcontrole staat daarvan los.",
-          "De lokale USB-testbuild 16 is nu geïnstalleerd op een Quest 3S en gestart. Alle bestaande appbestanden zijn ongewijzigd. De USB-verbinding viel na de start weg; menubediening, beeld, hoorbare gesprekken en framerate zijn daarom nog niet op de headset bevestigd.",
+          "De lokale USB-testbuild 16 is nu geïnstalleerd op een Quest 3S en gestart. Alle bestaande appbestanden zijn ongewijzigd. De tester bevestigt dat het wereldmenu en reizen op de headset werken. Dit bevestigt nog niet alle acht bestemmingen afzonderlijk. Beeldkwaliteit, hoorbare gesprekken en framerate moeten nog apart worden gecontroleerd.",
           "AAA blijft het kwaliteitsdoel. Een stabiele Quest-framerate na opwarming, materialen van dichtbij, overtuigender proefobjecten, routeopbouw en kleding van de gidsen blijven expliciete werkpunten. De PersonaPlex-proef met de Kluizenaar vraagt voorlopig nog de pc-audiobrug."
         ]
       }
