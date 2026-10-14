@@ -26,7 +26,7 @@ Wereldteksten staan in `content/worlds.json`. Algemene gegevens en de Meta-uitno
 
 Een push naar `main` bouwt en controleert de website en publiceert `dist/` via GitHub Actions naar Pages. `dist/` zelf wordt niet gecommit. GitHub Pages moet als bron **GitHub Actions** gebruiken. Er zijn geen providerkeys of custom secrets nodig in de workflow.
 
-De huidige teksten verwijzen naar de stand van 14 oktober 2026. Lokale testversie 12 is via USB geïnstalleerd; daarmee is niet vastgesteld welke versie op het Meta-releasekanaal beschikbaar is. Nieuwe builds die alleen zijn voorbereid worden als zodanig beschreven.
+De huidige teksten verwijzen naar de stand van 15 oktober 2026. Lokale testbuild 18 is via USB geïnstalleerd en start op Quest. De atmosfeer werkt, maar de oorspronkelijke UDS-planeten ontbreken nog volgens de headsettest. Op het Meta-releasekanaal is build 16 bevestigd. Nieuwe builds die alleen zijn voorbereid worden als zodanig beschreven.
 
 Publiceer na een betekenisvolle, gecontroleerde mijlpaal en werk de wereldpagina’s en teststatus in dezelfde wijziging bij. Een wekelijkse controle op vrijdag om 17:00 kijkt of er nieuwe resultaten zijn; zonder nieuws is er geen nieuw artikel. Houd historische artikelen herkenbaar als de stand bij die mijlpaal.
 
@@ -36,7 +36,7 @@ De beeldimport ondersteunt `--renders-dir` voor een nieuwe reeks gecontroleerde 
 
 - Conceptart is AI-gegenereerd en wordt als ontwerpdoel gelabeld.
 - Spelbeelden zijn echte Windows-renders van de ontwikkelversie.
-- Quest-weergave, headsetaudio en framerate zijn nog niet bevestigd.
+- Quest-opstart, wereldmenu en reizen zijn deels bevestigd. De oorspronkelijke UDS-planeten, headsetaudio en stabiele framerate zijn nog niet bevestigd.
 - Werk status, beperkingen en testinstructies bij wanneer er nieuwe hardwaretests zijn.
 - Deel geen Unreal-assets, API-sleutels, persoonlijke testgegevens of lokale bestandsnamen in openbare updates.
 
