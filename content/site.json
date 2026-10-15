@@ -6,14 +6,14 @@
   "updated": "2026-10-15",
   "testChannel": "https://www.oculus.com/experiences/1353866124479701/release-channels/1134737852561187/?token=gNRKb62n",
   "description": "Volg de ontwikkeling van Arcana: Echoes of the Stars. Ontdek acht werelden, conceptart, echte spelbeelden en de eerste Quest-proeven.",
-  "localBuild": 21,
-  "preparedBuild": 24,
+  "localBuild": 25,
+  "preparedBuild": 25,
   "metaUploadPending": true,
   "metaBuild": 20,
   "metaTestsStatus": "completed",
   "questMenuVerified": true,
-  "questVisualStatus": "De tester meldt dat het hele rechterbeeld in build 20 verstoord of zwart is. Build 21 is via USB geïnstalleerd met afzonderlijke rendering per oog, met behoud van HDR en de oorspronkelijke planeten. Een Quest-systeemvenster blokkeert de automatische beeldtest. Het herstel van beide ogen en de framerate zijn nog niet bevestigd.",
-  "questMenuStatus": "Wereldmenu en reizen zijn eerder in build 16 op Quest bevestigd. De fysieke controle van build 21 staat nog open.",
+  "questVisualStatus": "Build 21 crashte vóór het spelmenu door een verschil tussen de voorbereide shaders en het actieve apparaatprofiel. Build 25 staat nu via USB op de Quest met een correctie in het OpenXR-profiel. De automatische startcontrole is onbeslist: het proces leeft, maar de app pauzeert vóór Unreal begint. Een normale start met de headset op, beide ogen en de framerate moeten nog worden bevestigd. De eerder gemelde rechteroogstoring in Meta-build 20 blijft open.",
+  "questMenuStatus": "Wereldmenu en reizen zijn eerder in build 16 op Quest bevestigd. De start en bediening van USB-build 25 moeten nog fysiek worden bevestigd.",
   "metaStatus": "Build 20 is gepubliceerd op het privé-ALPHA-kanaal. Meta toont de automatische tests als Voltooid; dit vervangt geen fysieke speeltest.",
-  "developmentStatus": "Ontwikkelbuild 24 is voor Android voorbereid. De zes latere proefwerelden hebben verweerde ruïnes, drie rotsvormen en waar passend haagbeuk, klimop en open plantenbakken. Zes bassins sluiten met een stenen onderbouw aan op de helling. Achttien native speltests, zes looptests en dertien aankomsten in de reistest slagen. De nieuwe beelden zijn mobiele Unreal-previews op Windows. USB-build 21 en Meta-build 20 behouden hun nog open Quest-beeldcontrole."
+  "developmentStatus": "USB-build 25 bevat de levelafwerking van build 24 en corrigeert het apparaatprofiel dat multiview opnieuw inschakelde. Android-cook, verpakking, handtekening en OBB-controle slagen; de correctie is ook in het verpakte profiel aangetroffen. De gewone startcontrole bereikt nog geen spelmenu doordat de app vóór engine-initialisatie op de achtergrond gaat. De bestaande beelden blijven mobiele Unreal-previews op Windows uit build 24; Meta-ALPHA bevat build 20."
 }
