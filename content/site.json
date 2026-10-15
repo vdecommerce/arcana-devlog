@@ -6,14 +6,16 @@
   "updated": "2026-10-15",
   "testChannel": "https://www.oculus.com/experiences/1353866124479701/release-channels/1134737852561187/?token=gNRKb62n",
   "description": "Volg de ontwikkeling van Arcana: Echoes of the Stars. Ontdek acht werelden, conceptart, echte spelbeelden en de eerste Quest-proeven.",
-  "localBuild": 27,
-  "preparedBuild": 27,
+  "localBuild": 29,
+  "preparedBuild": 30,
   "metaUploadPending": true,
   "metaBuild": 20,
   "metaTestsStatus": "completed",
   "questMenuVerified": true,
-  "questVisualStatus": "USB-build 27 draait op de Quest. De tester bevestigt dat de helderheid in Saturnus en het beeld in beide ogen goed zijn; ook Venus ziet er volgens de tester goed uit. De logs bevestigen dat de belichting bij het reizen van vier stops minder in Saturnus naar één stop minder in Venus wisselt. Een aanvullende logcontrole van 61 seconden slaagt zonder de eerdere registratie- of renderfout. De overige zes werelden wachten nog op de fysieke beeldcontrole. Langdurig speelcomfort en framerate zijn nog niet gemeten. Meta-ALPHA bevat build 20.",
-  "questMenuStatus": "Het wereldmenu is bij de start van USB-build 27 geladen. De tester bevestigt de draaiende game, de Saturnus-belichting en beide ogen. Reizen via het wereldmenu naar Venus is gelogd en de tester vindt Venus goed zichtbaar. Een volledige speelronde met 27 staat nog open.",
+  "questVisualStatus": "USB-build 29 is door de tester goedgekeurd. De eerder bevestigde belichting blijft behouden: Saturnus vier stops minder, de overige werelden één stop minder. Saturnus en Venus zijn fysiek beoordeeld; de overige zes werelden en langdurig speelcomfort wachten nog op een volledige headsetcontrole. Framerate is nog niet gemeten. Meta-ALPHA bevat build 20.",
+  "questMenuStatus": "USB-build 29 blijft de goedgekeurde installatie. Build 30 staat apart gereed met een actuele opdrachtkaart boven de bestemmingen. De drie gerichte menutests en twee mobiele Windows-menucontroles slagen. Installatie en leesbaarheid van dit nieuwe menu in de headset zijn nog niet gecontroleerd.",
   "metaStatus": "Build 20 is gepubliceerd op het privé-ALPHA-kanaal. Meta toont de automatische tests als Voltooid; dit vervangt geen fysieke speeltest.",
-  "developmentStatus": "USB-build 27 bevat belichtingswaarden per wereld: Saturnus vier stops minder, de overige zeven één stop minder. De Quest-logs bevestigen dat de belichtingscode actief wordt en bij reizen naar Venus de juiste waarde kiest. De tester keurt Saturnus en Venus goed; het beeld in beide ogen is in Saturnus bevestigd. Compilatie, cook, verpakking, handtekening en USB-bestandscontrole slagen. De eerdere rendercrash is in de aanvullende logcontrole niet teruggekomen; langere en bredere speeltests blijven nodig. De publieke wereldbeelden blijven mobiele Unreal-previews op Windows uit build 24; Meta-ALPHA bevat build 20."
+  "developmentStatus": "Build 29 is goedgekeurd als lokale basis, met de Nederlandse Pipecat-proef en rustigere mondbeweging. Build 30 is gebouwd en apart gereed: het wereldmenu toont nu de actuele opdracht van je huidige wereld, los van de gekozen bestemming. Editor- en Android-compilatie, cook, verpakking en handtekeningcontrole slagen. De drie menutests slagen, met één bestaande waarschuwing. De nieuwe menubeelden zijn mobiele Unreal-previews op Windows; de wereldbeelden blijven uit build 24. Meta-ALPHA bevat build 20.",
+  "npcStatus": "De Nederlandse Pipecat-proef voor de Kluizenaar is opgenomen in USB-build 29. De tester keurt deze build goed na de aanpassing van de mondbeweging. Het betreft een prototype met lokale pc, USB en internetverbinding; de andere NPC’s gebruiken hun bestaande gesprekssysteem.",
+  "speechStatus": "Nederlandse spraak is door de tester gebruikt in de Pipecat-proef. Breed testen van reactiesnelheid, onderbreken en langere gesprekken blijft nodig."
 }

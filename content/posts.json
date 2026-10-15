@@ -1,5 +1,43 @@
 [
   {
+    "slug": "je-actuele-opdracht-in-het-wereldmenu",
+    "title": "Je actuele opdracht in het wereldmenu",
+    "date": "2026-10-15",
+    "category": "Spelbegeleiding en teststatus",
+    "image": "menu-current-saturn30",
+    "imageCaption": "Saturnus · menu-uitbreiding voor build 30 · mobiele Unreal-preview op Windows, geen headsetbeeld",
+    "excerpt": "Build 29 is goedgekeurd. De volgende uitbreiding laat in het wereldmenu zien welke proef nu aan de beurt is, los van de bestemming die je selecteert.",
+    "sections": [
+      {
+        "title": "De opdracht van de wereld waar je bent",
+        "paragraphs": [
+          "Boven de acht bestemmingen komt een kaart met je actuele opdracht. Op Saturnus vraagt die eerst om het loodzegel naar de schaal te brengen en los te laten. Zodra de Loodpoort geopend is, volgt de opdracht voor de Twee Stromen. De kaart volgt de bestaande proefstatus en blijft bij je huidige wereld wanneer je door andere bestemmingen bladert.",
+          "Onder de bestemmingen staat apart de uitleg voor de gekozen wereld. Zo kun je vooruitkijken zonder de opdracht van je huidige plek kwijt te raken. De bediening blijft gelijk: linker menuknop om te openen, stick om te kiezen, A om te reizen en B om te sluiten."
+        ]
+      },
+      {
+        "title": "Ook de vereisten blijven zichtbaar",
+        "paragraphs": [
+          "De actuele kaart gebruikt de instructies van de proef zelf. Als een eerdere proef nodig is, staat dat er ook bij. In de Mercurius-preview is Het Rad van Tin in Jupiter bijvoorbeeld nog niet voltooid. Tijdens het spelen kan de kaart ook de bestaande tussenstappen en afgeronde proef tonen. Het menu verandert geen puzzelvereisten en schrijft geen reisvoortgang."
+        ],
+        "images": [
+          {
+            "image": "menu-current-mercury30",
+            "caption": "Mercurius · de actuele kaart wijst op de eerdere proef in Jupiter · mobiele Unreal-preview op Windows, geen headsetbeeld"
+          }
+        ]
+      },
+      {
+        "title": "Build 29 blijft de goedgekeurde basis",
+        "paragraphs": [
+          "De tester heeft USB-build 29 goedgekeurd. Deze versie bevat de Nederlandse Pipecat-proef voor de Kluizenaar, met een rustigere mondbeweging. Voor deze gesprekken zijn nog een lokale pc, USB en internet nodig. De bestaande belichtingsinstellingen blijven behouden.",
+          "Voor de menu-uitbreiding slagen de drie gerichte automatische menutests, met één bestaande waarschuwing over het opruimen van de tijdelijke testwereld. De test controleert onder meer de overgang van Loodpoort naar Twee Stromen terwijl het menu openstaat. De twee beelden in deze update zijn mobiele Unreal-previews op Windows; ze bevestigen nog geen leescomfort in de headset.",
+          "Build 30 is succesvol gebouwd en verpakt. De handtekening is geldig en komt overeen met build 29. Deze nieuwe versie staat afzonderlijk gereed; installatie en fysieke leesbaarheid van het nieuwe menu zijn nog niet gecontroleerd. Build 29 blijft op de Quest en Meta-ALPHA bevat build 20. Fysieke beeldcontrole van de overige zes werelden, een volledige speelronde en gemeten Quest-framerate blijven open."
+        ]
+      }
+    ]
+  },
+  {
     "slug": "zes-werelden-krijgen-meer-karakter",
     "title": "Zes werelden krijgen meer karakter",
     "date": "2026-10-15",
