@@ -43,7 +43,7 @@
         "title": "Aanvulling na de eerste headsetcontrole",
         "paragraphs": [
           "De tester meldt storing of zwart beeld in het rechteroog van build 20. De fysieke stereo-controle is daarmee niet geslaagd. De zichtbare planeten in de Windows-preview bevestigen het materiaalherstel, maar garanderen geen correcte weergave op de headset.",
-          "Er wordt een gerichte testbuild voorbereid waarin beide ogen afzonderlijk worden gerenderd. HDR en de oorspronkelijke planeetmaterialen blijven behouden. De oorzaak, de visuele werking en de prestatiewinst of -kosten zijn nog niet vastgesteld."
+          "Build 21 is vervolgens succesvol gebouwd en via USB geïnstalleerd. Deze gerichte testbuild rendert beide ogen afzonderlijk, met behoud van HDR en de oorspronkelijke planeetmaterialen. De cookmetadata bevestigt de instellingen. De automatische opstart- en beeldcontrole is nog niet geslaagd: de Quest meldt dat een systeemvenster de start blokkeert. Het stereoherstel en de framerate zijn dus niet bevestigd. Meta-ALPHA bevat voorlopig build 20."
         ]
       }
     ]
