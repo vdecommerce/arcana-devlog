@@ -11,7 +11,7 @@
       {
         "title": "Dezelfde planeet, dezelfde camera",
         "paragraphs": [
-          "Een gerichte vergelijking liet het probleem duidelijk zien: dezelfde camera toonde Venus op desktop wel, maar in de mobiele renderer niet. De oorspronkelijke texture, schaal, kleurinstellingen en planetencomponent waren aanwezig. De mobiele tak van het hemelmaterial sloeg de samenvoeging van planeetkleur en glow over.",
+          "Een gerichte vergelijking liet het probleem duidelijk zien: dezelfde camera toonde Venus op desktop wel, maar in de mobiele renderer niet. De oorspronkelijke texture, schaal, kleurinstellingen en planetencomponent waren aanwezig. De mobiele tak van het hemelmateriaal sloeg de samenvoeging van planeetkleur en glow over.",
           "Die samenvoeging is hersteld, inclusief het afdekken van sterren achter de planeet. HDR brengt de helderheid dichter bij de desktopreferentie. De planeetmaterialen en opgeslagen levelbestanden behouden hun oorspronkelijke inhoud. Er is geen vervangende planeettexture gemaakt."
         ],
         "images": [
@@ -213,7 +213,7 @@
       {
         "title": "Gecontroleerd, met ruimte voor de volgende test",
         "paragraphs": [
-          "Alle zeven gewijzigde levels zijn opnieuw gestart voor een echte Windows-spelrender. De decoratiecontrole meldt geen botsingen. De loopcontroles op Venus en Mars slagen. De Android-build slaagt en bevat alle zeven nieuwe hemelmaterialen.",
+          "Alle zeven gewijzigde levels zijn opnieuw gestart voor een echte Windows-spelrender. De decoratiecontrole meldt geen botsingen. De loopcontroles op Venus en Mars slagen. De Android-build slaagt en bevat alle zeven nieuwe hemelmateriaalen.",
           "De nieuwe uitwerking is voorbereid voor lokale testversie 13. De USB-installatie en controle op de headset moeten nog gebeuren; nieuwe headsetweergave, framerate en hoorbare gesprekken zijn nog niet bevestigd. Het buildnummer op het Meta-testkanaal moet afzonderlijk worden gecontroleerd. De wereldpagina’s tonen de nieuwe Windows-beelden naast de oorspronkelijke conceptart."
         ]
       }
