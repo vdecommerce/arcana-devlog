@@ -14,7 +14,8 @@
     "buildVersion": 23,
     "next": "Natuurlijkere grondovergangen, verdere routeopbouw naar het labyrint en een verfijndere verschijning van de Kluizenaar.",
     "updated": "2026-10-15",
-    "renderNote": "Nieuw gecontroleerd beeld uit de mobiele Unreal-renderer op Windows. Dit beeld bevestigt geen headsetweergave of framerate; de actuele Quest-status staat op de testpagina."
+    "renderNote": "Nieuw gecontroleerd beeld uit de mobiele Unreal-renderer op Windows. Dit beeld bevestigt geen headsetweergave of framerate; de actuele Quest-status staat op de testpagina.",
+    "playStatus": "De tester bevestigt een doorlopend Nederlands gesprek met de Kluizenaar en mondbeweging zonder USB op een voorbereide Quest. De spraakserver staat los van de ontwikkel-pc; wifi en Tailscale zijn nodig. Build 31 neemt ook de actuele opdrachtkaart mee en stelt de mond iets ruimer af."
   },
   {
     "slug": "venus",

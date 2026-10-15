@@ -1,5 +1,62 @@
 [
   {
+    "slug": "de-kluizenaar-praat-draadloos-en-het-menu-wijst-de-weg",
+    "title": "De Kluizenaar praat draadloos, het menu wijst de weg",
+    "date": "2026-10-15",
+    "category": "Quest-spraak en spelbegeleiding",
+    "image": "saturn-game",
+    "imageCaption": "Saturnus bij de Kluizenaar · eerder gepubliceerde mobiele Unreal-preview op Windows; de draadloze spraaktest is op de Quest uitgevoerd",
+    "excerpt": "Een eerste gesprek met de Kluizenaar werkt zonder USB en zonder lokale spraakbackend. Build 31 brengt dit samen met de actuele opdrachtkaart uit build 30 en de eerdere verbeteringen aan beeld, licht en werelden.",
+    "sections": [
+      {
+        "title": "Twee vragen, met de kabel los",
+        "paragraphs": [
+          "De Kluizenaar luistert en antwoordt in het Nederlands via de Pipecat Android SDK. De spraakverwerking draait nu op een afzonderlijke server. De Quest maakt via wifi en Tailscale verbinding; de lokale backend op de ontwikkel-pc is uitgeschakeld.",
+          "Na het loshalen van de USB-kabel stelt de tester twee vragen na elkaar. Beide antwoorden zijn hoorbaar en de mond beweegt mee. Daarmee is de eerste draadloze gespreksproef op een voorbereid apparaat bevestigd. Een volledige speelronde en langdurig gesprek zijn nog niet getest.",
+          "Dicht bij de Kluizenaar start rechts A het gesprek. Wacht op “Ik luister” voordat je spreekt. A stopt het gesprek en B toont of verbergt tekst. De mondbeweging volgt dezelfde audio die vanuit het personage wordt afgespeeld.",
+          "Tijdens de vervolgronde is één hapering bij opnieuw verbinden gemeld. Na een herstart werkt de test weer goed met meerdere antwoorden. De oorzaak is nog niet vastgesteld; opnieuw verbinden en langere gesprekken blijven daarom testpunten."
+        ]
+      },
+      {
+        "title": "De opdrachtkaart uit build 30 komt mee",
+        "paragraphs": [
+          "Ook de eerdere menu-uitbreiding zit in build 31. Boven de acht bestemmingen staat de actuele opdracht van de wereld waar je bent. Op Saturnus gaat de opdracht na de Loodpoort over naar de Twee Stromen. Bij het bladeren blijft deze kaart de huidige proef volgen; de uitleg voor de gekozen bestemming staat er afzonderlijk onder.",
+          "Drie gerichte automatische menutests slagen, waarvan één met een bestaande waarschuwing bij het opruimen van een tijdelijke testwereld. De twee menubeelden zijn mobiele Unreal-previews op Windows. De tester heeft de leesbaarheid van de nieuwe opdrachtkaart inmiddels ook op de Quest bevestigd."
+        ],
+        "images": [
+          {
+            "image": "menu-current-saturn30",
+            "caption": "De actuele opdracht op Saturnus · menu-uitbreiding uit build 30, meegenomen in build 31 · mobiele Windows-preview"
+          },
+          {
+            "image": "menu-current-mercury30",
+            "caption": "Mercurius verwijst naar een eerdere proef in Jupiter · mobiele Windows-preview, geen headsetbeeld"
+          }
+        ]
+      },
+      {
+        "title": "Ook de eerdere wereld- en beeldverbeteringen",
+        "paragraphs": [
+          "Sinds de vorige Meta-build zijn de proefwerelden verder afgewerkt met verweerde ruïnes, gevarieerde rotsen, haagbeuk, klimop en beter ondersteunde waterbassins. De al gepubliceerde wereldbeelden laten die afwerking zien; er zijn voor deze update geen nieuwe headsetbeelden toegevoegd.",
+          "De correctie voor de eerdere Android-opstartcrash en de belichting per wereld blijven behouden. De tester heeft beeld in beide ogen en de lagere belichting in Saturnus bevestigd; ook Venus is fysiek goed zichtbaar bevonden. De overige zes werelden, langdurig comfort en gemeten framerate blijven openstaande controles."
+        ]
+      },
+      {
+        "title": "Een iets ruimere mondbeweging",
+        "paragraphs": [
+          "De eerste proef bewoog te uitbundig; de volgende instelling bleek na de draadloze test iets te terughoudend. Build 31 verhoogt de mondsterkte daarom met twintig procent ten opzichte van de goedgekeurde rustige instelling. Het stemvolume verandert daardoor niet. De tester heeft deze ruimere mondbeweging op de Quest goedgekeurd."
+        ]
+      },
+      {
+        "title": "Voorlopig een begeleide proef",
+        "paragraphs": [
+          "De draadloze gesprekstoegang is vooraf ingesteld op de test-Quest. Nieuwe testers hebben naast de game ook een verbonden Tailscale-app en voorbereiding door het ontwikkelteam nodig. Een installatie uit het Meta-kanaal geeft op zichzelf nog geen toegang tot deze spraakserver. Providerkeys en de persoonlijke verbindingsconfiguratie worden niet via de website of de gamebuild gedeeld.",
+          "Build 31 is gepubliceerd op het privé-ALPHA-kanaal voor de Quest 3-familie. Meta toont de automatische tests als Voltooid. De actuele testpagina vermeldt de bevestigde resultaten en openstaande controles. Historische ontwikkelartikelen beschrijven de stand op hun eigen publicatiemoment."
+        ]
+      }
+    ]
+  },
+  {
     "slug": "je-actuele-opdracht-in-het-wereldmenu",
     "title": "Je actuele opdracht in het wereldmenu",
     "date": "2026-10-15",
