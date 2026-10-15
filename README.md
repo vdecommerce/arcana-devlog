@@ -26,11 +26,11 @@ Wereldteksten staan in `content/worlds.json`. Algemene gegevens en de Meta-uitno
 
 Een push naar `main` bouwt en controleert de website en publiceert `dist/` via GitHub Actions naar Pages. `dist/` zelf wordt niet gecommit. GitHub Pages moet als bron **GitHub Actions** gebruiken. Er zijn geen providerkeys of custom secrets nodig in de workflow.
 
-De huidige teksten verwijzen naar 15 oktober 2026. Ontwikkelbuild 22 is voor Android voorbereid met reisvoortgang, volgende stappen per wereld, HDR-compensatie voor het menu en metalen sokkelinleg. Achttien native tests en de volledige menu-rondreis op Windows slagen; de save blijft ongewijzigd. USB-build 21 blijft de afzonderlijke stereokandidaat. Meta-ALPHA bevat build 20, waarin de tester een storing in het hele rechterbeeld meldt. Een Quest-systeemdialoog blokkeerde de automatische beeldcontrole van build 21. Stereo, comfort en framerate zijn nog niet goedgekeurd.
+De huidige teksten verwijzen naar 15 oktober 2026. Ontwikkelbuild 23 bouwt voort op de reisbegeleiding en sokkelafwerking van build 22, met verweerde ruïnes, rotsvariatie en een aanwezig Fab-grindmateriaal rond de Kluizenaar. Achttien native tests en de controle van de bestaande Saturnusroute slagen. De nieuwe Saturnus-preview is afkomstig uit de mobiele Unreal-renderer op Windows; de andere wereldbeelden behouden versie 22. USB-build 21 blijft de afzonderlijke stereokandidaat. Meta-ALPHA bevat build 20, waarin de tester een storing in het hele rechterbeeld meldt. Een Quest-systeemdialoog blokkeerde de automatische beeldcontrole van build 21. Stereo, comfort en framerate zijn nog niet goedgekeurd.
 
 Publiceer na een betekenisvolle, gecontroleerde mijlpaal en werk de wereldpagina’s en teststatus in dezelfde wijziging bij. Een wekelijkse controle op vrijdag om 17:00 kijkt of er nieuwe resultaten zijn; zonder nieuws is er geen nieuw artikel. Houd historische artikelen herkenbaar als de stand bij die mijlpaal.
 
-De beeldimport ondersteunt `--renders-dir` voor een nieuwe reeks gecontroleerde spelrenders. Alleen het ongewijzigde Aarde-beeld mag terugvallen op de vorige reeks. Conceptart en Windows-spelbeelden houden afzonderlijke labels.
+De beeldimport ondersteunt `--renders-dir`, `--build-version` en optioneel `--worlds saturn` voor een gerichte update. Alleen geselecteerde werelden krijgen een nieuwe versie; andere beelden en wereldteksten blijven intact. Elke geselecteerde wereld vereist een render en een geslaagd controlerapport. Eerder gepubliceerde artikelbeelden worden vóór vervanging bewaard. Conceptart en Windows-spelbeelden houden afzonderlijke labels.
 
 ## Beelden en claims
 

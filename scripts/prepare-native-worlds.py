@@ -10,11 +10,15 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--source-project', required=True)
 parser.add_argument('--renders-dir', default='Saved/AgentRuns/planet-parity-20261015/native-mobile-final-worlds')
 parser.add_argument('--build-version', type=int, default=20)
+parser.add_argument('--worlds', nargs='+', choices=['saturn','venus','jupiter','mercury','mars','moon','sun','earth'],
+                    help='Only refresh these worlds; keep other published versions intact')
 args = parser.parse_args()
 root = Path(__file__).resolve().parents[1]
 renders = Path(args.source_project) / args.renders_dir
 rows = [('saturn','Level_1_QuestLink'),('venus','Level_2_Venus'),('jupiter','Level_3_Jupiter'),
         ('mercury','Level_4_Mercury'),('mars','Level_5_Mars'),('moon','Level_6_Moon'),('sun','Level_7_Sun'),('earth','Earth')]
+if args.worlds:
+    rows = [(key, name) for key, name in rows if key in args.worlds]
 for key, name in rows:
     source = renders / (name + '-game.png')
     report = (renders / (name + '-review.txt')).read_text(encoding='utf-8-sig')
@@ -53,6 +57,8 @@ for key, name in rows:
 worlds_path = root / 'content/worlds.json'
 worlds = json.loads(worlds_path.read_text(encoding='utf-8'))
 for world in worlds:
+    if world['screen'] not in {key + '-game' for key, _ in rows}:
+        continue
     world['buildVersion'] = args.build_version
     world['updated'] = '2026-10-15'
     world['renderNote'] = 'Nieuw gecontroleerd beeld uit de mobiele Unreal-renderer op Windows. Dit beeld bevestigt geen headsetweergave of framerate; de actuele Quest-status staat op de testpagina.'

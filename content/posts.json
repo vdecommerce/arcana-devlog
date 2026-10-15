@@ -1,5 +1,54 @@
 [
   {
+    "slug": "saturnus-krijgt-verweerde-ruines",
+    "title": "Saturnus krijgt verweerde ruïnes",
+    "date": "2026-10-15",
+    "category": "Levelafwerking en Fab-assets",
+    "image": "saturn-game",
+    "imageCaption": "Saturnus · verweerde ruïne bij de Kluizenaar · mobiele Unreal-preview op Windows, geen headsetbeeld",
+    "excerpt": "De opening rond de Kluizenaar krijgt verweerde steen, gevarieerde rotsen en grind uit een aanwezig Fab-materiaal. Lage wegstenen begeleiden de nadering.",
+    "sections": [
+      {
+        "title": "Een ruïne die in het landschap staat",
+        "paragraphs": [
+          "De stenen beschutting rond de Kluizenaar krijgt materialen die bij de vorm van de ruïne horen. Beschadigde randen, voegen en reliëf komen uit de aanwezige Cave Ruins-assets. Een voetstuk onder de lage zijde van de boog sluit de opening boven de helling. De bestaande heuvel en het looppad blijven behouden.",
+          "Drie verschillende rotsvormen vervangen de herhaling van één steen. Het metalen Saturnussymbool is kleiner en zit nu op de bovenste muurpartij, naast de lantaarn. Zo blijft het een herkenningspunt zonder boven de beschutting te zweven. De oorspronkelijke planeet en ringen zijn behouden."
+        ],
+        "images": [
+          {
+            "image": "saturn-game-before-native23",
+            "caption": "Vorige versie · dezelfde vaste opnamecamera · mobiele Unreal-preview op Windows"
+          },
+          {
+            "image": "saturn-game",
+            "caption": "Nieuwe afwerking · ruïnemateriaal, rotsvariatie en lage wegstenen · mobiele Unreal-preview op Windows"
+          }
+        ]
+      },
+      {
+        "title": "Fab voor het detail van dichtbij",
+        "paragraphs": [
+          "Een al geïmporteerd Fab/Megascans-materiaal voor grof woestijngrind krijgt een plek in kleine steenbedden aan de voet van de rotsgroepen langs de nadering. Losse steentjes vullen de randen aan. Het gebruikt de aanwezige kleur-, normaal- en oppervlaktextures; er zijn geen nieuwe assets gekocht of gedownload.",
+          "Zes lage, verweerde wegstenen met metalen bovenkant markeren het directe pad naar de gids. De toevoegingen hebben geen botsingen, overlapdetectie of invloed op navigatie. De drie bestaande ruïneschaduwen blijven behouden; het nieuwe detail voegt geen schaduwen toe."
+        ]
+      },
+      {
+        "title": "Detail dat met afstand afneemt",
+        "paragraphs": [
+          "Zeven aparte meshvarianten krijgen vier detailniveaus. Hun volledige vorm blijft beschikbaar van dichtbij, met minder driehoeken wanneer ze kleiner in beeld zijn. Het grondstuk behoudt zijn bestaande vereenvoudiging en kleine details verdwijnen buiten hun ingestelde tekenafstand. De geïmporteerde originelen blijven behouden.",
+          "Achttien automatische speltests slagen, met één bestaande waarschuwing. De bestaande routecontrole slaagt op 161 meetpunten, en de nieuwe decoratiecontrole meldt nul botsings-, overlap- of navigatiefouten. Dit zijn ontwikkelcontroles; ze meten geen Quest-framerate."
+        ]
+      },
+      {
+        "title": "Ontwikkeling en headsettest blijven apart zichtbaar",
+        "paragraphs": [
+          "De nieuwe opname is gemaakt met de mobiele Unreal-renderer op Windows. De luchteffecten bewegen tijdens het spelen, ook bij dezelfde vaste camera. Het beeld bevestigt geen correcte weergave in beide headsetogen.",
+          "De definitieve Android-build 23 is succesvol gebouwd en verpakt. De handtekening is geldig en komt overeen met de vorige build. Deze versie is nog niet via USB geïnstalleerd of naar Meta gepubliceerd. USB-build 21 blijft beschikbaar voor de gemelde storing in het rechteroog; Meta-ALPHA bevat build 20. De fysieke beeldcontrole en framerate staan nog open. AAA blijft de kwaliteitsambitie; deze afwerkingsstap maakt de Alpha geen afgeronde productie."
+        ]
+      }
+    ]
+  },
+  {
     "slug": "je-reis-krijgt-een-volgende-stap",
     "title": "Je reis krijgt een volgende stap",
     "date": "2026-10-15",

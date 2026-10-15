@@ -25,8 +25,8 @@
     "path": "assets/media/saturn-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "a83d03985826",
-    "label": "Mobiele Unreal-preview op Windows · ontwikkelversie 22 · geen headsetbeeld"
+    "revision": "9a43998fb99e",
+    "label": "Mobiele Unreal-preview op Windows · ontwikkelversie 23 · geen headsetbeeld"
   },
   "venus-concept": {
     "path": "assets/media/venus-concept.webp",
@@ -309,6 +309,14 @@
     "height": 788,
     "revision": "4ee18b147d7c",
     "label": "Eerder gepubliceerde Windows-spelrender · vóór ontwikkelversie 22",
+    "historical": true
+  },
+  "saturn-game-before-native23": {
+    "path": "assets/media/saturn-game-before-native23.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "a83d03985826",
+    "label": "Eerder gepubliceerde Windows-spelrender · vóór ontwikkelversie 23",
     "historical": true
   }
 }
