@@ -6,11 +6,13 @@
   "updated": "2026-10-15",
   "testChannel": "https://www.oculus.com/experiences/1353866124479701/release-channels/1134737852561187/?token=gNRKb62n",
   "description": "Volg de ontwikkeling van Arcana: Echoes of the Stars. Ontdek acht werelden, conceptart, echte spelbeelden en de eerste Quest-proeven.",
-  "localBuild": 18,
-  "preparedBuild": 18,
-  "metaUploadPending": true,
-  "metaBuild": 16,
+  "localBuild": 20,
+  "preparedBuild": 20,
+  "metaUploadPending": false,
+  "metaBuild": 20,
   "metaTestsStatus": "completed",
   "questMenuVerified": true,
-  "questVisualStatus": "Build 18 start op de Quest 3S en de atmosfeer werkt. De oorspronkelijke UDS-planeten zijn volgens de headsettest nog niet zichtbaar. De visuele overeenkomst met Unreal en de framerate blijven werkpunten."
+  "questVisualStatus": "De oorspronkelijke planeten zijn hersteld en zichtbaar in zeven mobiele Unreal-planeetpreviews op Windows. Build 20 staat via USB op Quest en op Meta-ALPHA. De fysieke beeldcontrole in beide ogen en de frameratemeting staan nog open.",
+  "questMenuStatus": "Wereldmenu en reizen zijn eerder in build 16 op Quest bevestigd. De fysieke controle van build 20 staat nog open.",
+  "metaStatus": "Build 20 is gepubliceerd op het privé-ALPHA-kanaal. Meta toont de automatische tests als Voltooid; dit vervangt geen fysieke speeltest."
 }

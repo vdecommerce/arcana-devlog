@@ -25,8 +25,8 @@
     "path": "assets/media/saturn-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "983137759cf8",
-    "buildVersion": 16
+    "revision": "20b5a619a9bb",
+    "label": "Mobiele Unreal-preview op Windows · build 20 · geen headsetbeeld"
   },
   "venus-concept": {
     "path": "assets/media/venus-concept.webp",
@@ -38,8 +38,8 @@
     "path": "assets/media/venus-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "5498daae3eae",
-    "buildVersion": 16
+    "revision": "8edda4850703",
+    "label": "Mobiele Unreal-preview op Windows · build 20 · geen headsetbeeld"
   },
   "jupiter-concept": {
     "path": "assets/media/jupiter-concept.webp",
@@ -51,8 +51,8 @@
     "path": "assets/media/jupiter-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "aff986ce8bbd",
-    "buildVersion": 16
+    "revision": "3a9f5c3c36ac",
+    "label": "Mobiele Unreal-preview op Windows · build 20 · geen headsetbeeld"
   },
   "mercury-concept": {
     "path": "assets/media/mercury-concept.webp",
@@ -64,8 +64,8 @@
     "path": "assets/media/mercury-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "b37a68c72520",
-    "buildVersion": 16
+    "revision": "6602cb8a48ae",
+    "label": "Mobiele Unreal-preview op Windows · build 20 · geen headsetbeeld"
   },
   "mars-concept": {
     "path": "assets/media/mars-concept.webp",
@@ -77,8 +77,8 @@
     "path": "assets/media/mars-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "e9682cfc0746",
-    "buildVersion": 16
+    "revision": "0fbb5ace6ace",
+    "label": "Mobiele Unreal-preview op Windows · build 20 · geen headsetbeeld"
   },
   "moon-concept": {
     "path": "assets/media/moon-concept.webp",
@@ -90,8 +90,8 @@
     "path": "assets/media/moon-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "572af9eabb3c",
-    "buildVersion": 16
+    "revision": "06fdc8b2a025",
+    "label": "Mobiele Unreal-preview op Windows · build 20 · geen headsetbeeld"
   },
   "sun-concept": {
     "path": "assets/media/sun-concept.webp",
@@ -103,8 +103,8 @@
     "path": "assets/media/sun-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "a83ec966c3b7",
-    "buildVersion": 16
+    "revision": "a2385da0bc18",
+    "label": "Mobiele Unreal-preview op Windows · build 20 · geen headsetbeeld"
   },
   "earth-concept": {
     "path": "assets/media/earth-concept.webp",
@@ -116,8 +116,8 @@
     "path": "assets/media/earth-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "4a2a2afd92a2",
-    "buildVersion": 16
+    "revision": "4ee18b147d7c",
+    "label": "Mobiele Unreal-preview op Windows · build 20 · geen headsetbeeld"
   },
   "venus-game-build-14": {
     "path": "assets/media/venus-game-build-14.webp",
@@ -142,5 +142,101 @@
     "revision": "572af9eabb3c",
     "buildVersion": 16,
     "historical": true
+  },
+  "venus-mobile-before": {
+    "path": "assets/media/venus-mobile-before.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "afc58ce6507b",
+    "historical": true,
+    "label": "Mobiele Unreal-preview vóór herstel · Windows, geen headsetbeeld"
+  },
+  "venus-mobile-restored": {
+    "path": "assets/media/venus-mobile-restored.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "323f7e971a16",
+    "historical": true,
+    "label": "Mobiele Unreal-preview na herstel · Windows, geen headsetbeeld"
+  },
+  "venus-native-desktop-reference": {
+    "path": "assets/media/venus-native-desktop-reference.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "8187cedc0b97",
+    "historical": true,
+    "label": "Oorspronkelijke desktoprender · dezelfde gerichte camera"
+  },
+  "saturn-game-before-native20": {
+    "path": "assets/media/saturn-game-before-native20.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "983137759cf8",
+    "buildVersion": 16,
+    "historical": true,
+    "label": "Eerder gepubliceerde Windows-spelrender · vóór het mobiele planeetherstel"
+  },
+  "venus-game-before-native20": {
+    "path": "assets/media/venus-game-before-native20.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "5498daae3eae",
+    "buildVersion": 16,
+    "historical": true,
+    "label": "Eerder gepubliceerde Windows-spelrender · vóór het mobiele planeetherstel"
+  },
+  "jupiter-game-before-native20": {
+    "path": "assets/media/jupiter-game-before-native20.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "aff986ce8bbd",
+    "buildVersion": 16,
+    "historical": true,
+    "label": "Eerder gepubliceerde Windows-spelrender · vóór het mobiele planeetherstel"
+  },
+  "mercury-game-before-native20": {
+    "path": "assets/media/mercury-game-before-native20.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "b37a68c72520",
+    "buildVersion": 16,
+    "historical": true,
+    "label": "Eerder gepubliceerde Windows-spelrender · vóór het mobiele planeetherstel"
+  },
+  "mars-game-before-native20": {
+    "path": "assets/media/mars-game-before-native20.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "e9682cfc0746",
+    "buildVersion": 16,
+    "historical": true,
+    "label": "Eerder gepubliceerde Windows-spelrender · vóór het mobiele planeetherstel"
+  },
+  "moon-game-before-native20": {
+    "path": "assets/media/moon-game-before-native20.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "572af9eabb3c",
+    "buildVersion": 16,
+    "historical": true,
+    "label": "Eerder gepubliceerde Windows-spelrender · vóór het mobiele planeetherstel"
+  },
+  "sun-game-before-native20": {
+    "path": "assets/media/sun-game-before-native20.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "a83ec966c3b7",
+    "buildVersion": 16,
+    "historical": true,
+    "label": "Eerder gepubliceerde Windows-spelrender · vóór het mobiele planeetherstel"
+  },
+  "earth-game-before-native20": {
+    "path": "assets/media/earth-game-before-native20.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "4a2a2afd92a2",
+    "buildVersion": 16,
+    "historical": true,
+    "label": "Eerder gepubliceerde Windows-spelrender · vóór het mobiele planeetherstel"
   }
 }

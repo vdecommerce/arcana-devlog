@@ -11,8 +11,10 @@
     "intro": "Een lantaarn op een rotsige heuvel. Een gids die wacht. Beneden begint het pad naar het labyrint.",
     "intent": "Indigo schemering, verweerde steen en warm goud. De Kluizenaar vormt het rustige beginpunt van de reis, met de geringde planeet als anker in de verte.",
     "current": "De Kluizenaar heeft opnieuw nachtverlichting. Saturnus is kleiner en de ringen overheersen het uitzicht minder. De stenen beschutting werpt nu een schaduw. Een eigen metalen planeetsymbool markeert de wereld.",
-    "buildVersion": 16,
-    "next": "Meer routeopbouw, een zichtbaar labyrint en rijker gesteente rond de Kluizenaar."
+    "buildVersion": 20,
+    "next": "Meer routeopbouw, een zichtbaar labyrint en rijker gesteente rond de Kluizenaar.",
+    "updated": "2026-10-15",
+    "renderNote": "Nieuw gecontroleerd beeld uit de mobiele Unreal-renderer op Windows. De fysieke headsetcontrole en frameratemeting van build 20 staan nog open."
   },
   {
     "slug": "venus",
@@ -26,8 +28,10 @@
     "intro": "Een open heiligdom van licht gesteente en koper, met kleine tuinen langs de randen.",
     "intent": "Een zachtere wereld waarin bloemen, groen en koper het ritme bepalen. Ruime doorgangen houden de proef overzichtelijk.",
     "current": "Lichte gegroefde zuilen met koperen banden vervangen de hoekige zuilenrij. Groene hellingen, zes grotere bomen en een tegelvloer geven de tuin een duidelijker eigen vorm. Een eigen metalen planeetsymbool markeert de wereld. Grotere ovale bassins hebben een eigen watermateriaal met rustige rimpels. 76 herhaalde plantencomponenten worden tijdens het spelen samengebracht in 8 groepen.",
-    "buildVersion": 16,
-    "next": "Rijkere borders, geloofwaardige klimplanten en natuurlijke overgangen rond de bassins."
+    "buildVersion": 20,
+    "next": "Rijkere borders, geloofwaardige klimplanten en natuurlijke overgangen rond de bassins.",
+    "updated": "2026-10-15",
+    "renderNote": "Nieuw gecontroleerd beeld uit de mobiele Unreal-renderer op Windows. De fysieke headsetcontrole en frameratemeting van build 20 staan nog open."
   },
   {
     "slug": "jupiter",
@@ -41,8 +45,10 @@
     "intro": "Koel metaal, hoge zuilen en een open blik op de hemel rondom de proef van Tin.",
     "intent": "Een ruim, ceremonieel plein met lichte steen en ingetogen metalen randen. De compositie brengt de aandacht terug naar het rad.",
     "current": "De zuilen staan nu langs een gebogen kroonlijst rond het plein. Koele steen, tinaccenten en een ronde vloerinleg onderscheiden deze wereld van de tuinlevels. Een eigen metalen planeetsymbool markeert de wereld. 40 herhaalde plantencomponenten worden tijdens het spelen samengebracht in 6 groepen.",
-    "buildVersion": 16,
-    "next": "Een overtuigender rad, ronde terrassen en fijnere tinornamenten."
+    "buildVersion": 20,
+    "next": "Een overtuigender rad, ronde terrassen en fijnere tinornamenten.",
+    "updated": "2026-10-15",
+    "renderNote": "Nieuw gecontroleerd beeld uit de mobiele Unreal-renderer op Windows. De fysieke headsetcontrole en frameratemeting van build 20 staan nog open."
   },
   {
     "slug": "mercurius",
@@ -56,8 +62,10 @@
     "intro": "Een atelier onder de open hemel, waar steen, groen en spiegels elkaar ontmoeten.",
     "intent": "Een onderzoekende, alchemistische sfeer. Groene tinten en tuinen verbinden het werkvlak met het landschap.",
     "current": "Het atelier heeft een open zuilenopstelling, groene hellingen, zes bomen en twee grotere stenen waterbassins langs de proefruimte. Een eigen metalen planeetsymbool markeert de wereld. Grotere ovale bassins hebben een eigen watermateriaal met rustige rimpels. 40 herhaalde plantencomponenten worden tijdens het spelen samengebracht in 6 groepen.",
-    "buildVersion": 16,
-    "next": "Een herkenbare prismavorm, verfijnde sokkels en leesbare verbindingen tussen de proefstukken."
+    "buildVersion": 20,
+    "next": "Een herkenbare prismavorm, verfijnde sokkels en leesbare verbindingen tussen de proefstukken.",
+    "updated": "2026-10-15",
+    "renderNote": "Nieuw gecontroleerd beeld uit de mobiele Unreal-renderer op Windows. De fysieke headsetcontrole en frameratemeting van build 20 staan nog open."
   },
   {
     "slug": "mars",
@@ -71,8 +79,10 @@
     "intro": "Donkere steen en warme lichtlijnen rond de proef van IJzer.",
     "intent": "Een soberder landschap met ijzer, basalt en de gloed van sintels. Minder begroeiing geeft de architectuur meer gewicht.",
     "current": "De klassieke kroonlijsten zijn verwijderd. Onderbroken ruïnezuilen, donkere steen, roestkleurige hellingen en metalen proefplaten passen beter bij de Hal van IJzer. Een eigen metalen planeetsymbool markeert de wereld. 10 herhaalde plantencomponenten worden tijdens het spelen samengebracht in 2 groepen.",
-    "buildVersion": 16,
-    "next": "Gebroken basalt, roestdetails, lokale vuuraccenten en een overtuigender rotswand."
+    "buildVersion": 20,
+    "next": "Gebroken basalt, roestdetails, lokale vuuraccenten en een overtuigender rotswand.",
+    "updated": "2026-10-15",
+    "renderNote": "Nieuw gecontroleerd beeld uit de mobiele Unreal-renderer op Windows. De fysieke headsetcontrole en frameratemeting van build 20 staan nog open."
   },
   {
     "slug": "maan",
@@ -86,8 +96,10 @@
     "intro": "Blauw maanlicht, zilveren details en langgerekte waterspiegels langs het heiligdom.",
     "intent": "Een stille wereld van lichte steen en weerspiegelingen. De waterpartijen in het sfeerbeeld zijn een ontwerpdoel voor verdere uitwerking.",
     "current": "Slanke zilverkleurige zuilen en open omlijstingen houden de boog zichtbaar. Twee langgerekte waterbassins en witte bomen versterken de richting van de Spiegelmeren. Een eigen metalen planeetsymbool markeert de wereld. Grotere ovale bassins hebben een eigen watermateriaal met rustige rimpels. 46 herhaalde plantencomponenten worden tijdens het spelen samengebracht in 4 groepen.",
-    "buildVersion": 16,
-    "next": "Een natuurlijker meerlandschap, geloofwaardige reflecties en leesbaarheid van alle proefsymbolen in VR."
+    "buildVersion": 20,
+    "next": "Een natuurlijker meerlandschap, geloofwaardige reflecties en leesbaarheid van alle proefsymbolen in VR.",
+    "updated": "2026-10-15",
+    "renderNote": "Nieuw gecontroleerd beeld uit de mobiele Unreal-renderer op Windows. De fysieke headsetcontrole en frameratemeting van build 20 staan nog open."
   },
   {
     "slug": "zon",
@@ -101,8 +113,10 @@
     "intro": "Gouden randen en een open, lichte ruimte rond de laatste planeetproef.",
     "intent": "Een warm, helder middenpunt. Goud dient als accent op de steen, met ruimte voor de proef en de speler.",
     "current": "Steviger gevormde gouden zuilen, lichte vloersteen, ronde vloerinleg en vier grotere bomen geven het plein rond de zonnewijzer meer samenhang. Een eigen metalen planeetsymbool markeert de wereld. 46 herhaalde plantencomponenten worden tijdens het spelen samengebracht in 4 groepen.",
-    "buildVersion": 16,
-    "next": "Een rijker zonnewijzerobject, verfijnde zonneornamenten en sterkere warme lichtregie."
+    "buildVersion": 20,
+    "next": "Een rijker zonnewijzerobject, verfijnde zonneornamenten en sterkere warme lichtregie.",
+    "updated": "2026-10-15",
+    "renderNote": "Nieuw gecontroleerd beeld uit de mobiele Unreal-renderer op Windows. De fysieke headsetcontrole en frameratemeting van build 20 staan nog open."
   },
   {
     "slug": "aarde",
@@ -116,7 +130,9 @@
     "intro": "De kromming van de aarde, een kleine observatieplek en het ritme van rustig zweven.",
     "intent": "Een bescheiden toevlucht in een grote ruimte. De planeet krijgt de hoofdrol; de architectuur kadert het uitzicht.",
     "current": "Het orbitale platform heeft een doorlopende ronde gouden rand en nieuwe vloerinleg. Het licht valt nu op de zichtbare aardzijde en maakt ook het platform veel beter leesbaar. Een eigen metalen planeetsymbool markeert de wereld.",
-    "buildVersion": 16,
-    "next": "Een duidelijke aankomst, verfijnde obelisken en een stabiele sterrenhemel. De experimentele sterrenlaag is teruggedraaid; het werkende planeetbeeld blijft behouden."
+    "buildVersion": 20,
+    "next": "Een duidelijke aankomst, verfijnde obelisken en een stabiele sterrenhemel. De experimentele sterrenlaag is teruggedraaid; het werkende planeetbeeld blijft behouden.",
+    "updated": "2026-10-15",
+    "renderNote": "Nieuw gecontroleerd beeld uit de mobiele Unreal-renderer op Windows. De fysieke headsetcontrole en frameratemeting van build 20 staan nog open."
   }
 ]

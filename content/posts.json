@@ -1,10 +1,52 @@
 [
   {
+    "slug": "venus-terug-in-de-mobiele-renderer",
+    "title": "Venus terug in de mobiele renderer",
+    "date": "2026-10-15",
+    "category": "Oorspronkelijke planeten",
+    "image": "venus-mobile-restored",
+    "imageCaption": "Mobiele Unreal-preview op Windows · oorspronkelijke Venus · geen headsetbeeld",
+    "excerpt": "De oorspronkelijke Venus verschijnt weer in de mobiele Unreal-renderer. Dezelfde texture, schaal en wolken vormen de basis voor de volgende Quest-test.",
+    "sections": [
+      {
+        "title": "Dezelfde planeet, dezelfde camera",
+        "paragraphs": [
+          "Een gerichte vergelijking liet het probleem duidelijk zien: dezelfde camera toonde Venus op desktop wel, maar in de mobiele renderer niet. De oorspronkelijke texture, schaal, kleurinstellingen en planetencomponent waren aanwezig. De mobiele tak van het hemelmaterial sloeg de samenvoeging van planeetkleur en glow over.",
+          "Die samenvoeging is hersteld, inclusief het afdekken van sterren achter de planeet. HDR brengt de helderheid dichter bij de desktopreferentie. De planeetmaterialen en opgeslagen levelbestanden behouden hun oorspronkelijke inhoud. Er is geen vervangende planeettexture gemaakt."
+        ],
+        "images": [
+          {
+            "image": "venus-native-desktop-reference",
+            "caption": "Desktopreferentie · oorspronkelijke Venus, gerichte camera"
+          },
+          {
+            "image": "venus-mobile-restored",
+            "caption": "Mobiele Unreal-preview op Windows · dezelfde camera, geen headsetbeeld"
+          }
+        ]
+      },
+      {
+        "title": "Voorbereid op beide ogen",
+        "paragraphs": [
+          "VR vraagt ook om een correcte samenvoeging per oog. De DBuffer-uitlezing is daarom aangepast aan de actuele multiview-camera. De oorspronkelijke berekening blijft de basis en de bestaande multiview-optimalisatie blijft ingeschakeld. De visuele werking in beide ogen moet nog fysiek op Quest worden gecontroleerd.",
+          "De mobiele preview is een ontwikkeltest op Windows. Hij bewijst dat de oorspronkelijke planeet in deze renderroute zichtbaar is; hij vervangt geen headsetcontrole of meting van de Quest-framerate."
+        ]
+      },
+      {
+        "title": "De spelroutes opnieuw gecontroleerd",
+        "paragraphs": [
+          "Zestien native automatische tests slagen, met één waarschuwing. De zes afzonderlijke looptests voor Venus, Jupiter, Mercurius, Mars, de Maan en de Zon slagen. Ook de gezamenlijke heen- en terugreis door de zeven proefwerelden is afgerond. Deze tests controleren bestaande routes en proefhandelingen op desktop.",
+          "Build 20 bevat de materiaalcorrectie, is via USB geïnstalleerd en staat op Meta-ALPHA. Meta toont de automatische tests als Voltooid. Alle acht werelden hebben een nieuwe mobiele Unreal-preview op Windows; de zeven oorspronkelijke hemelplaneten zijn ook met gerichte camera’s gecontroleerd. De nieuwe headsetcontrole, stabiele framerate en verdere afwerking van de proefobjecten blijven werkpunten. AAA blijft een kwaliteitsambitie; deze mijlpaal maakt de Alpha nog geen afgeronde productie."
+        ]
+      }
+    ]
+  },
+  {
     "slug": "de-quest-start-weer-op",
     "title": "De Quest start weer op",
     "date": "2026-10-15",
     "category": "Quest en beeldkwaliteit",
-    "image": "venus-game",
+    "image": "venus-game-before-native20",
     "excerpt": "Build 18 herstelt de opstartfout op Quest. De atmosfeer werkt, maar de oorspronkelijke UDS-planeten zijn nog niet zichtbaar in de headset.",
     "sections": [
       {

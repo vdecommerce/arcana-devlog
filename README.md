@@ -9,9 +9,9 @@ Deze aparte repository bevat de website en geselecteerde, geoptimaliseerde beeld
 Node.js 22 of nieuwer is voldoende; installatie van extra packages is niet nodig.
 
 ```sh
-npm run build
-npm run check
-npm run dev
+node scripts/build.mjs
+node scripts/check.mjs
+node scripts/preview.mjs
 ```
 
 Open de Local URL uit de terminal. De preview gebruikt dezelfde `/arcana-devlog/`-paden als GitHub Pages.
@@ -26,7 +26,7 @@ Wereldteksten staan in `content/worlds.json`. Algemene gegevens en de Meta-uitno
 
 Een push naar `main` bouwt en controleert de website en publiceert `dist/` via GitHub Actions naar Pages. `dist/` zelf wordt niet gecommit. GitHub Pages moet als bron **GitHub Actions** gebruiken. Er zijn geen providerkeys of custom secrets nodig in de workflow.
 
-De huidige teksten verwijzen naar de stand van 15 oktober 2026. Lokale testbuild 18 is via USB geïnstalleerd en start op Quest. De atmosfeer werkt, maar de oorspronkelijke UDS-planeten ontbreken nog volgens de headsettest. Op het Meta-releasekanaal is build 16 bevestigd. Nieuwe builds die alleen zijn voorbereid worden als zodanig beschreven.
+De huidige teksten verwijzen naar 15 oktober 2026. Build 20 is via USB geïnstalleerd en gepubliceerd op Meta-ALPHA; Meta toont de automatische tests als Voltooid. De oorspronkelijke planeten zijn hersteld in de mobiele renderroute. Acht mobiele wereldpreviews en zeven gerichte planeetpreviews op Windows zijn gecontroleerd. Beeld in beide ogen, comfort en framerate op de headset zijn nog niet bevestigd.
 
 Publiceer na een betekenisvolle, gecontroleerde mijlpaal en werk de wereldpagina’s en teststatus in dezelfde wijziging bij. Een wekelijkse controle op vrijdag om 17:00 kijkt of er nieuwe resultaten zijn; zonder nieuws is er geen nieuw artikel. Houd historische artikelen herkenbaar als de stand bij die mijlpaal.
 
@@ -35,7 +35,7 @@ De beeldimport ondersteunt `--renders-dir` voor een nieuwe reeks gecontroleerde 
 ## Beelden en claims
 
 - Conceptart is AI-gegenereerd en wordt als ontwerpdoel gelabeld.
-- Spelbeelden zijn echte Windows-renders van de ontwikkelversie.
+- Spelbeelden zijn echte desktop- of mobiele Unreal-previews op Windows, met een expliciet herkomstlabel. Historische artikelbeelden blijven bewaard.
 - Quest-opstart, wereldmenu en reizen zijn deels bevestigd. De oorspronkelijke UDS-planeten, headsetaudio en stabiele framerate zijn nog niet bevestigd.
 - Werk status, beperkingen en testinstructies bij wanneer er nieuwe hardwaretests zijn.
 - Deel geen Unreal-assets, API-sleutels, persoonlijke testgegevens of lokale bestandsnamen in openbare updates.
