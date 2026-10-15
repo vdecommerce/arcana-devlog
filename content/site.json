@@ -7,13 +7,13 @@
   "testChannel": "https://www.oculus.com/experiences/1353866124479701/release-channels/1134737852561187/?token=gNRKb62n",
   "description": "Volg de ontwikkeling van Arcana: Echoes of the Stars. Ontdek acht werelden, conceptart, echte spelbeelden en de eerste Quest-proeven.",
   "localBuild": 25,
-  "preparedBuild": 25,
+  "preparedBuild": 26,
   "metaUploadPending": true,
   "metaBuild": 20,
   "metaTestsStatus": "completed",
   "questMenuVerified": true,
-  "questVisualStatus": "USB-build 25 start nu door naar de spelwereld. De automatische startcontrole van 45 seconden slaagt zonder crash en met de bedoelde stereo-instellingen. De tester bevestigt dat de wereld zichtbaar is in beide ogen. De omgeving is nog te licht; een lagere belichting wordt op de headset beoordeeld. Comfort, framerate en een volledige speelronde zijn nog niet bevestigd. Meta-ALPHA bevat nog build 20.",
+  "questVisualStatus": "USB-build 25 start door naar de spelwereld en de tester bevestigt beeld in beide ogen. De startcontrole van 45 seconden slaagt zonder crash. Vier stops minder belichting is tijdens de Saturnus-test goedgekeurd. Build 26 is voorbereid met deze instelling voor Saturnus en mildere, voorlopige correcties voor de andere werelden. De Quest moet eerst opladen; installatie en beeldcontrole van build 26 volgen nog. Comfort en framerate blijven open. Meta-ALPHA bevat build 20.",
   "questMenuStatus": "Het wereldmenu is bij de gewone start van USB-build 25 geladen. De tester bevestigt de spelwereld in beide ogen. Bediening en reizen zijn eerder fysiek in build 16 bevestigd; een volledige speeltest van build 25 volgt nog.",
   "metaStatus": "Build 20 is gepubliceerd op het privé-ALPHA-kanaal. Meta toont de automatische tests als Voltooid; dit vervangt geen fysieke speeltest.",
-  "developmentStatus": "USB-build 25 bevat de levelafwerking van build 24 en corrigeert het apparaatprofiel dat multiview opnieuw inschakelde. Cook, verpakking, handtekening en OBB-controle slagen. De gewone starttest op de gedragen Quest slaagt nu ook en de tester bevestigt beeld in beide ogen. De helderheid wordt verder afgesteld. De bestaande wereldbeelden blijven mobiele Unreal-previews op Windows uit build 24; Meta-ALPHA bevat build 20."
+  "developmentStatus": "Build 26 is voorbereid met belichtingscorrecties per wereld op Quest. Saturnus krijgt de fysiek goedgekeurde verlaging van vier stops; de overige zeven werelden voorlopig één stop minder, met behoud van hun eigen lichtinstellingen. Compilatie, cook, verpakking, handtekening en controle van de verpakte instellingen slagen. USB-build 25 is fysiek gestart en toont beeld in beide ogen. Installatie van 26 wacht op de opgeladen Quest. De publieke wereldbeelden blijven mobiele Unreal-previews op Windows uit build 24; Meta-ALPHA bevat build 20."
 }
