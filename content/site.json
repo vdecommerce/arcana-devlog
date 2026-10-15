@@ -12,7 +12,7 @@
   "metaBuild": 20,
   "metaTestsStatus": "completed",
   "questMenuVerified": true,
-  "questVisualStatus": "De oorspronkelijke planeten zijn hersteld en zichtbaar in zeven mobiele Unreal-planeetpreviews op Windows. Build 20 staat via USB op Quest en op Meta-ALPHA. De fysieke beeldcontrole in beide ogen en de frameratemeting staan nog open.",
+  "questVisualStatus": "De tester meldt in build 20 storing of zwart beeld in het rechteroog. Deze build doorstaat de fysieke beeldcontrole niet. De oorspronkelijke planeten zijn zichtbaar in mobiele Unreal-previews op Windows; stereo en framerate op Quest zijn nog niet goedgekeurd. Een testbuild met afzonderlijke rendering per oog wordt voorbereid.",
   "questMenuStatus": "Wereldmenu en reizen zijn eerder in build 16 op Quest bevestigd. De fysieke controle van build 20 staat nog open.",
   "metaStatus": "Build 20 is gepubliceerd op het privé-ALPHA-kanaal. Meta toont de automatische tests als Voltooid; dit vervangt geen fysieke speeltest."
 }
