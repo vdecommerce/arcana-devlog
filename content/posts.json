@@ -1,5 +1,62 @@
 [
   {
+    "slug": "je-reis-krijgt-een-volgende-stap",
+    "title": "Je reis krijgt een volgende stap",
+    "date": "2026-10-15",
+    "category": "Spelbegeleiding en levelafwerking",
+    "image": "journey-menu-mobile",
+    "imageCaption": "Mobiele Unreal-preview op Windows · reisvoortgang en volgende stap · geen headsetbeeld",
+    "excerpt": "Het wereldmenu toont opgeslagen voortgang en een volgende stap per wereld. Metalen inlegbanden geven de proefsokkels meer samenhang met hun omgeving.",
+    "sections": [
+      {
+        "title": "Weten waar je verder kunt",
+        "paragraphs": [
+          "Het wereldmenu toont welke proeven voltooid zijn, welke beschikbaar zijn en welke op een eerdere proef wachten. Bij de geselecteerde bestemming staat een korte volgende stap. Vrij reizen blijft mogelijk: het menu geeft uitleg en voltooit geen puzzels.",
+          "De teller bevat zeven proefwerelden. Aarde blijft een observatieplatform. Bij Venus verschijnt de werkelijk opgeslagen keuze Bloei of Rust, zonder score of oordeel. Een geopende Loodpoort telt op zichzelf nog niet als een voltooide Saturnuswereld.",
+          "De voortgang wordt bij openen ingelezen. Het menu schrijft de save niet. Als opgeslagen gegevens niet leesbaar zijn, meldt het menu dat en blijft reizen mogelijk."
+        ]
+      },
+      {
+        "title": "Een menu dat onder HDR leesbaar blijft",
+        "paragraphs": [
+          "Een mobiele preview liet zien dat HDR het paneel te fel maakte. Het bestaande menumateriaal compenseert nu voor de belichting. De donkere achtergrond, lichte tekst en gouden selectie zijn daardoor weer te onderscheiden in de mobiele Windows-preview. De leesbaarheid en het comfort in de headset moeten nog worden gecontroleerd."
+        ]
+      },
+      {
+        "title": "Metaal in de proefplekken",
+        "paragraphs": [
+          "De stenen sokkels in de zes latere proefwerelden krijgen dunne inlegbanden in hun eigen metaalmateriaal. Ze hergebruiken bestaande geometrie en materialen. De toevoegingen hebben geen botsingen, overlapdetectie, navigatie-invloed of schaduwen en verdwijnen buiten hun ingestelde tekenafstand.",
+          "Dit zijn extra zichtbare meshcomponenten. Zonder meting op de Quest is dit geen bewezen prestatiewinst. De bestaande grijpobjecten, puzzelvoorwaarden, opgeslagen levelbestanden en oorspronkelijke planeten zijn behouden."
+        ],
+        "images": [
+          {
+            "image": "jupiter-game",
+            "caption": "Jupiter · nieuwe metaalbanden op de proefsokkels · mobiele Unreal-preview op Windows"
+          },
+          {
+            "image": "mercury-game",
+            "caption": "Mercurius · inlegbanden op de spiegelstanden · mobiele Unreal-preview op Windows"
+          }
+        ]
+      },
+      {
+        "title": "Wat gecontroleerd is",
+        "paragraphs": [
+          "De definitieve editorbuild slaagt. Alle achttien native automatische tests slagen, met één bestaande waarschuwing. Nieuwe controles toetsen de opgeslagen reisbegeleiding en bewaken dat herhaald toepassen van de sokkelafwerking geen extra banden maakt of de proefobjecten wijzigt.",
+          "De volledige wereldmenutest laadt alle acht bestemmingen en keert terug naar Saturnus. De voor- en nahashes van de opgeslagen voortgang blijven gelijk. Deze test gebruikt gesimuleerde controllerinvoer in het echte Windows-spel; hij bevestigt geen fysieke controllerbediening op Quest.",
+          "Alle acht werelden hebben nieuwe mobiele Unreal-previews op Windows. De rendercontroles melden nul decoratiebotsingen en nul inlegfouten. De 42 nieuwe banden voegen geen schaduwcasters toe; dit is geen meting van de Quest-framerate."
+        ]
+      },
+      {
+        "title": "De Quest-controle blijft afzonderlijk",
+        "paragraphs": [
+          "USB-build 21 blijft de kandidaat voor de storing in het gehele rechterbeeld van build 20. Een Quest-systeemdialoog blokkeerde de automatische beeldcontrole. Het herstel van beide ogen en de framerate zijn nog niet bevestigd. Meta-ALPHA bevat build 20.",
+          "Ontwikkelbuild 22 is succesvol voor Android gebouwd en verpakt. De handtekening is geldig en komt overeen met USB-build 21. Deze nieuwe build is nog niet geïnstalleerd of naar Meta gepubliceerd. De beelden op deze pagina zijn mobiele Unreal-previews op Windows en vormen geen bewijs van een geslaagde headsettest."
+        ]
+      }
+    ]
+  },
+  {
     "slug": "venus-terug-in-de-mobiele-renderer",
     "title": "Venus terug in de mobiele renderer",
     "date": "2026-10-15",

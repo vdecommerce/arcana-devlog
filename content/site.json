@@ -7,12 +7,13 @@
   "testChannel": "https://www.oculus.com/experiences/1353866124479701/release-channels/1134737852561187/?token=gNRKb62n",
   "description": "Volg de ontwikkeling van Arcana: Echoes of the Stars. Ontdek acht werelden, conceptart, echte spelbeelden en de eerste Quest-proeven.",
   "localBuild": 21,
-  "preparedBuild": 21,
-  "metaUploadPending": false,
+  "preparedBuild": 22,
+  "metaUploadPending": true,
   "metaBuild": 20,
   "metaTestsStatus": "completed",
   "questMenuVerified": true,
   "questVisualStatus": "De tester meldt dat het hele rechterbeeld in build 20 verstoord of zwart is. Build 21 is via USB geïnstalleerd met afzonderlijke rendering per oog, met behoud van HDR en de oorspronkelijke planeten. Een Quest-systeemvenster blokkeert de automatische beeldtest. Het herstel van beide ogen en de framerate zijn nog niet bevestigd.",
   "questMenuStatus": "Wereldmenu en reizen zijn eerder in build 16 op Quest bevestigd. De fysieke controle van build 21 staat nog open.",
-  "metaStatus": "Build 20 is gepubliceerd op het privé-ALPHA-kanaal. Meta toont de automatische tests als Voltooid; dit vervangt geen fysieke speeltest."
+  "metaStatus": "Build 20 is gepubliceerd op het privé-ALPHA-kanaal. Meta toont de automatische tests als Voltooid; dit vervangt geen fysieke speeltest.",
+  "developmentStatus": "Ontwikkelbuild 22 is voorbereid met opgeslagen reisvoortgang, aanwijzingen per wereld, HDR-compensatie voor het menu en metalen sokkelinleg. Achttien native tests en de volledige menu-rondreis op Windows slagen. USB-build 21 en Meta-build 20 blijven afzonderlijk vermeld; de Quest-beeldcontrole is nog open."
 }

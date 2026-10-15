@@ -26,7 +26,7 @@ Wereldteksten staan in `content/worlds.json`. Algemene gegevens en de Meta-uitno
 
 Een push naar `main` bouwt en controleert de website en publiceert `dist/` via GitHub Actions naar Pages. `dist/` zelf wordt niet gecommit. GitHub Pages moet als bron **GitHub Actions** gebruiken. Er zijn geen providerkeys of custom secrets nodig in de workflow.
 
-De huidige teksten verwijzen naar 15 oktober 2026. Build 20 is via USB geïnstalleerd en gepubliceerd op Meta-ALPHA; Meta toont de automatische tests als Voltooid. De oorspronkelijke planeten zijn hersteld in de mobiele renderroute. Acht mobiele wereldpreviews en zeven gerichte planeetpreviews op Windows zijn gecontroleerd. Beeld in beide ogen, comfort en framerate op de headset zijn nog niet bevestigd.
+De huidige teksten verwijzen naar 15 oktober 2026. Ontwikkelbuild 22 is voor Android voorbereid met reisvoortgang, volgende stappen per wereld, HDR-compensatie voor het menu en metalen sokkelinleg. Achttien native tests en de volledige menu-rondreis op Windows slagen; de save blijft ongewijzigd. USB-build 21 blijft de afzonderlijke stereokandidaat. Meta-ALPHA bevat build 20, waarin de tester een storing in het hele rechterbeeld meldt. Een Quest-systeemdialoog blokkeerde de automatische beeldcontrole van build 21. Stereo, comfort en framerate zijn nog niet goedgekeurd.
 
 Publiceer na een betekenisvolle, gecontroleerde mijlpaal en werk de wereldpagina’s en teststatus in dezelfde wijziging bij. Een wekelijkse controle op vrijdag om 17:00 kijkt of er nieuwe resultaten zijn; zonder nieuws is er geen nieuw artikel. Houd historische artikelen herkenbaar als de stand bij die mijlpaal.
 
