@@ -38,8 +38,8 @@
     "path": "assets/media/venus-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "008e7cad19ea",
-    "label": "Mobiele Unreal-preview op Windows · ontwikkelversie 22 · geen headsetbeeld"
+    "revision": "731bb5e83160",
+    "label": "Mobiele Unreal-preview op Windows · ontwikkelversie 24 · geen headsetbeeld"
   },
   "jupiter-concept": {
     "path": "assets/media/jupiter-concept.webp",
@@ -51,8 +51,8 @@
     "path": "assets/media/jupiter-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "40acdee0e65f",
-    "label": "Mobiele Unreal-preview op Windows · ontwikkelversie 22 · geen headsetbeeld"
+    "revision": "4e9ee597c9e3",
+    "label": "Mobiele Unreal-preview op Windows · ontwikkelversie 24 · geen headsetbeeld"
   },
   "mercury-concept": {
     "path": "assets/media/mercury-concept.webp",
@@ -64,8 +64,8 @@
     "path": "assets/media/mercury-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "31a57363dfeb",
-    "label": "Mobiele Unreal-preview op Windows · ontwikkelversie 22 · geen headsetbeeld"
+    "revision": "7dfa447e0899",
+    "label": "Mobiele Unreal-preview op Windows · ontwikkelversie 24 · geen headsetbeeld"
   },
   "mars-concept": {
     "path": "assets/media/mars-concept.webp",
@@ -77,8 +77,8 @@
     "path": "assets/media/mars-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "61108652e4d4",
-    "label": "Mobiele Unreal-preview op Windows · ontwikkelversie 22 · geen headsetbeeld"
+    "revision": "a533105bbf7a",
+    "label": "Mobiele Unreal-preview op Windows · ontwikkelversie 24 · geen headsetbeeld"
   },
   "moon-concept": {
     "path": "assets/media/moon-concept.webp",
@@ -90,8 +90,8 @@
     "path": "assets/media/moon-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "170b9a17dde1",
-    "label": "Mobiele Unreal-preview op Windows · ontwikkelversie 22 · geen headsetbeeld"
+    "revision": "6835d60bddde",
+    "label": "Mobiele Unreal-preview op Windows · ontwikkelversie 24 · geen headsetbeeld"
   },
   "sun-concept": {
     "path": "assets/media/sun-concept.webp",
@@ -103,8 +103,8 @@
     "path": "assets/media/sun-game.webp",
     "width": 1400,
     "height": 788,
-    "revision": "a482576a62b2",
-    "label": "Mobiele Unreal-preview op Windows · ontwikkelversie 22 · geen headsetbeeld"
+    "revision": "d4ec2c0b5516",
+    "label": "Mobiele Unreal-preview op Windows · ontwikkelversie 24 · geen headsetbeeld"
   },
   "earth-concept": {
     "path": "assets/media/earth-concept.webp",
@@ -318,5 +318,67 @@
     "revision": "a83d03985826",
     "label": "Eerder gepubliceerde Windows-spelrender · vóór ontwikkelversie 23",
     "historical": true
+  },
+  "venus-game-before-native24": {
+    "path": "assets/media/venus-game-before-native24.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "008e7cad19ea",
+    "label": "Eerder gepubliceerde Windows-spelrender · vóór ontwikkelversie 24",
+    "historical": true
+  },
+  "jupiter-game-before-native24": {
+    "path": "assets/media/jupiter-game-before-native24.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "40acdee0e65f",
+    "label": "Eerder gepubliceerde Windows-spelrender · vóór ontwikkelversie 24",
+    "historical": true
+  },
+  "mercury-game-before-native24": {
+    "path": "assets/media/mercury-game-before-native24.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "31a57363dfeb",
+    "label": "Eerder gepubliceerde Windows-spelrender · vóór ontwikkelversie 24",
+    "historical": true
+  },
+  "mars-game-before-native24": {
+    "path": "assets/media/mars-game-before-native24.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "61108652e4d4",
+    "label": "Eerder gepubliceerde Windows-spelrender · vóór ontwikkelversie 24",
+    "historical": true
+  },
+  "moon-game-before-native24": {
+    "path": "assets/media/moon-game-before-native24.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "170b9a17dde1",
+    "label": "Eerder gepubliceerde Windows-spelrender · vóór ontwikkelversie 24",
+    "historical": true
+  },
+  "sun-game-before-native24": {
+    "path": "assets/media/sun-game-before-native24.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "a482576a62b2",
+    "label": "Eerder gepubliceerde Windows-spelrender · vóór ontwikkelversie 24",
+    "historical": true
+  },
+  "venus-ivy24": {
+    "path": "assets/media/venus-ivy24.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "f69d74f2af9a",
+    "label": "Mobiele Unreal-preview op Windows · ontwikkelversie 24 · geen headsetbeeld"
+  },
+  "venus-pool24": {
+    "path": "assets/media/venus-pool24.webp",
+    "width": 1400,
+    "height": 788,
+    "revision": "d9ca49b64cb5",
+    "label": "Mobiele Unreal-preview op Windows · ontwikkelversie 24 · geen headsetbeeld"
   }
 }

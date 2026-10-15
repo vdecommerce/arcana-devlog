@@ -1,5 +1,90 @@
 [
   {
+    "slug": "zes-werelden-krijgen-meer-karakter",
+    "title": "Zes werelden krijgen meer karakter",
+    "date": "2026-10-15",
+    "category": "Levelafwerking en bestaande assets",
+    "image": "venus-game",
+    "imageCaption": "Venus · haagbeuk, klimop en verweerde steen · mobiele Unreal-preview op Windows, geen headsetbeeld",
+    "excerpt": "Van de Koperen Tuin tot het Gouden Midden: zes proefwerelden krijgen verweerde ruïnes, gevarieerde rotsen en beter geplaatste begroeiing. De waterbassins sluiten nu aan op het landschap.",
+    "sections": [
+      {
+        "title": "Een eigen plek voor iedere proef",
+        "paragraphs": [
+          "Na Saturnus krijgen ook Venus, Jupiter, Mercurius, Mars, Maan en Zon een verdere afwerkingsronde. Hun ruïnebogen gebruiken materialen die bij de geïmporteerde geometrie horen. Drie rotsvormen doorbreken de herhaling langs de randen. De metalen planeetsymbolen zijn kleiner en hebben een stenen achterplaat. Vijf zitten op de bovenste boogpartij. Bij Zon zit het symbool op de voorkant van de stenen bovendorpel, zodat die het symbool niet meer bedekt.",
+          "Jupiter houdt zijn koele tinaccenten, Mars zijn donkere en roestkleurige karakter en Zon zijn warme gouden randen. De bestaande proefsokkels, grijpobjecten en puzzelopstelling blijven behouden. De oorspronkelijke planeten en hemelinstellingen zijn niet aangepast."
+        ],
+        "images": [
+          {
+            "image": "jupiter-game-before-native24",
+            "caption": "Vorige Jupiter-versie · mobiele Unreal-preview op Windows · eerdere afwerking"
+          },
+          {
+            "image": "jupiter-game",
+            "caption": "Jupiter · koel metaal en een verweerde boog bij het Rad van Tin"
+          },
+          {
+            "image": "mars-game",
+            "caption": "Mars · donkere ruïnestenen en rotsvariatie rond de Hal van IJzer"
+          },
+          {
+            "image": "sun-game",
+            "caption": "Zon · warme metaalaccenten en nieuwe haagbeuk rond de proefruimte"
+          }
+        ]
+      },
+      {
+        "title": "Begroeiing met echte bladvormen",
+        "paragraphs": [
+          "De achttien grote prototypebomen in Venus, Mercurius, Maan en Zon maken plaats voor varianten van een aanwezige Europese haagbeuk. Twintig heesters in verhoogde borders worden vervangen door jonge haagbeuken. Venus krijgt zes klimopgroepen rond de zuilen; Mercurius krijgt er twee. Zwevende prototypebloemen langs de Venuszuilen zijn verwijderd.",
+          "In vijf werelden krijgen de plantenbakken open metalen randen met zichtbare grond. Dat grondmateriaal hergebruikt de al geïmporteerde Fab-grindtextures. De wortels en bloemen zakken iets in de nieuwe grondlaag. Er zijn geen nieuwe assets gekocht."
+        ],
+        "images": [
+          {
+            "image": "venus-ivy24",
+            "caption": "Venus van dichtbij · klimop rond de zuil en een open plantenbak · mobiele Unreal-preview op Windows"
+          },
+          {
+            "image": "mercury-game",
+            "caption": "Mercurius · haagbeuk en klimop langs het groene atelier"
+          }
+        ]
+      },
+      {
+        "title": "Bassins die op de helling staan",
+        "paragraphs": [
+          "De bestaande waterpartijen bleken gedeeltelijk boven het aflopende terrein te hangen. De zes bassins in Venus, Mercurius en Maan zijn iets kleiner en dichter bij de proefruimte geplaatst. Ieder bassin krijgt een stenen onderbouw, met de onderkant afgestemd op 64 terreinmetingen langs zijn omtrek.",
+          "Het nieuwe watermateriaal reageert op de belichting en gebruikt rustige rimpels, zonder de eerdere eigen lichtgloed. De close-up laat het resultaat in de mobiele Unreal-renderer op Windows zien. Reflecties en leesbaarheid in de Quest blijven een aparte controle."
+        ],
+        "images": [
+          {
+            "image": "venus-pool24",
+            "caption": "Venus · het verkleinde bassin met water dat op de belichting reageert"
+          },
+          {
+            "image": "moon-game",
+            "caption": "Maan · zilveren architectuur, nieuwe begroeiing en twee ondersteunde bassins"
+          }
+        ]
+      },
+      {
+        "title": "Detail met afstandsvarianten",
+        "paragraphs": [
+          "De nieuwe haagbeuk- en klimopmeshes hebben vier detailniveaus, met steeds minder driehoeken op afstand. De twee haagbeuken beginnen bij 1.212 en 4.556 driehoeken en eindigen bij 97 en 365. Hun aparte kleur-, normaal- en maskertextures krijgen een limiet van 2.048 pixels. De bestaande bronassets blijven behouden.",
+          "De decoratie heeft geen botsingen, overlapdetectie of invloed op navigatie. De bestaande schaduwbronnen zijn behouden; nieuwe details voegen geen schaduwcasters toe. Dit zijn begrenzingen voor de verdere ontwikkeling. Ze bewijzen nog geen stabiele Quest-framerate."
+        ]
+      },
+      {
+        "title": "Gecontroleerde ontwikkeling, open headsettest",
+        "paragraphs": [
+          "Achttien native automatische speltests en de zes looptests slagen, met één bestaande waarschuwing in de speltests. Een aanvullende reistest controleert dertien aankomsten door zeven proefwerelden heen en terug. Hij controleert het laden van levels, de VR-speler en de vloer; hij bedient geen fysieke portals. De opgeslagen componenten van alle zes proeven blijven gelijk aan de toestand vóór deze afwerkingsronde. Herhaald toepassen van de afwerking maakt geen extra decoraties.",
+          "Android-build 24 is succesvol gebouwd en verpakt, met een geldige handtekening die overeenkomt met build 23. De zes nieuwe wereldbeelden en de detailopnamen zijn mobiele Unreal-previews op Windows. Belichting en wolken kunnen tussen opnamen verschillen. Saturnus behoudt zijn beeld van build 23 en Aarde zijn beeld van build 22.",
+          "USB-build 21 blijft de aparte kandidaat voor de gemelde storing in het rechteroog. Meta-ALPHA bevat build 20. Build 24 is nog niet op de headset geïnstalleerd of naar Meta gepubliceerd. Beide ogen, comfort en framerate moeten nog op de Quest worden bevestigd. AAA blijft de ambitie; verdere afwerking van personages, proefobjecten, landschap en interacties is nog nodig."
+        ]
+      }
+    ]
+  },
+  {
     "slug": "saturnus-krijgt-verweerde-ruines",
     "title": "Saturnus krijgt verweerde ruïnes",
     "date": "2026-10-15",
@@ -79,11 +164,11 @@
         ],
         "images": [
           {
-            "image": "jupiter-game",
+            "image": "jupiter-game-before-native24",
             "caption": "Jupiter · nieuwe metaalbanden op de proefsokkels · mobiele Unreal-preview op Windows"
           },
           {
-            "image": "mercury-game",
+            "image": "mercury-game-before-native24",
             "caption": "Mercurius · inlegbanden op de spiegelstanden · mobiele Unreal-preview op Windows"
           }
         ]

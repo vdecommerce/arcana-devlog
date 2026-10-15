@@ -26,6 +26,13 @@ for key, name in rows:
         raise RuntimeError('A checked world render is missing: ' + key)
     if args.build_version >= 22 and 'inlay_errors=0' not in report:
         raise RuntimeError('Trial inlay review is missing: ' + key)
+    if args.build_version >= 24:
+        render_log = (renders / (name + '-render.log')).read_text(encoding='utf-8-sig', errors='replace')
+        if 'shaderplatform="PCD3D_ES3_1"' not in render_log or 'review_view=wide' not in report:
+            raise RuntimeError('Expected a wide Windows mobile-renderer capture: ' + key)
+        source_map = Path(args.source_project) / 'Content/Arcana/Worlds' / (name + '.umap')
+        if source_map.is_file() and source.stat().st_mtime < source_map.stat().st_mtime:
+            raise RuntimeError('Capture predates the saved world: ' + key)
 manifest_path = root / 'content/media.json'
 manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
 posts_path = root / 'content/posts.json'
