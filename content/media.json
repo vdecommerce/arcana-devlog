@@ -428,5 +428,133 @@
     "revision": "828100dfd4f6",
     "buildVersion": 35,
     "label": "Venus · detail met rand · portaalproef 35 · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+  },
+  "saturn-art36-wide-baseline": {
+    "path": "assets/media/saturn-art36-wide-baseline.png",
+    "width": 1600,
+    "height": 900,
+    "revision": "380aa3986f7a",
+    "buildVersion": 36,
+    "label": "Saturnus · overzicht · visuele proef 36 met nieuwe details uit · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+  },
+  "saturn-art36-wide-candidate": {
+    "path": "assets/media/saturn-art36-wide-candidate.png",
+    "width": 1600,
+    "height": 900,
+    "revision": "8370137ab878",
+    "buildVersion": 36,
+    "label": "Saturnus · overzicht · visuele proef 36 met nieuwe details aan · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+  },
+  "earth-art36-wide-baseline": {
+    "path": "assets/media/earth-art36-wide-baseline.png",
+    "width": 1600,
+    "height": 900,
+    "revision": "feab0a2094bb",
+    "buildVersion": 36,
+    "label": "Aarde · overzicht · visuele proef 36 met nieuwe details uit · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+  },
+  "earth-art36-wide-candidate": {
+    "path": "assets/media/earth-art36-wide-candidate.png",
+    "width": 1600,
+    "height": 900,
+    "revision": "fe34d4e18844",
+    "buildVersion": 36,
+    "label": "Aarde · overzicht · visuele proef 36 met nieuwe details aan · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+  },
+  "mercury-art36-wide-baseline": {
+    "path": "assets/media/mercury-art36-wide-baseline.png",
+    "width": 1600,
+    "height": 900,
+    "revision": "829de5773a1b",
+    "buildVersion": 36,
+    "label": "Mercurius · overzicht · visuele proef 36 met nieuwe details uit · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+  },
+  "mercury-art36-wide-candidate": {
+    "path": "assets/media/mercury-art36-wide-candidate.png",
+    "width": 1600,
+    "height": 900,
+    "revision": "e3c57e710fae",
+    "buildVersion": 36,
+    "label": "Mercurius · overzicht · visuele proef 36 met nieuwe details aan · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+  },
+  "mars-art36-wide-baseline": {
+    "path": "assets/media/mars-art36-wide-baseline.png",
+    "width": 1600,
+    "height": 900,
+    "revision": "a3e139360aaa",
+    "buildVersion": 36,
+    "label": "Mars · overzicht · visuele proef 36 met nieuwe details uit · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+  },
+  "mars-art36-wide-candidate": {
+    "path": "assets/media/mars-art36-wide-candidate.png",
+    "width": 1600,
+    "height": 900,
+    "revision": "429a7d19a6bf",
+    "buildVersion": 36,
+    "label": "Mars · overzicht · visuele proef 36 met nieuwe details aan · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+  },
+  "moon-art36-wide-baseline": {
+    "path": "assets/media/moon-art36-wide-baseline.png",
+    "width": 1600,
+    "height": 900,
+    "revision": "82d2a9d23312",
+    "buildVersion": 36,
+    "label": "Maan · overzicht · visuele proef 36 met nieuwe details uit · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+  },
+  "moon-art36-wide-candidate": {
+    "path": "assets/media/moon-art36-wide-candidate.png",
+    "width": 1600,
+    "height": 900,
+    "revision": "e8478c082cd8",
+    "buildVersion": 36,
+    "label": "Maan · overzicht · visuele proef 36 met nieuwe details aan · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+  },
+  "jupiter-art36-wide-baseline": {
+    "path": "assets/media/jupiter-art36-wide-baseline.png",
+    "width": 1600,
+    "height": 900,
+    "revision": "17f0d04eeb57",
+    "buildVersion": 36,
+    "label": "Jupiter · overzicht · visuele proef 36 met nieuwe details uit · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+  },
+  "jupiter-art36-wide-candidate": {
+    "path": "assets/media/jupiter-art36-wide-candidate.png",
+    "width": 1600,
+    "height": 900,
+    "revision": "567c25bea0aa",
+    "buildVersion": 36,
+    "label": "Jupiter · overzicht · visuele proef 36 met nieuwe details aan · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+  },
+  "sun-art36-wide-baseline": {
+    "path": "assets/media/sun-art36-wide-baseline.png",
+    "width": 1600,
+    "height": 900,
+    "revision": "6ddc2f56d1f0",
+    "buildVersion": 36,
+    "label": "Zon · overzicht · visuele proef 36 met nieuwe details uit · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+  },
+  "sun-art36-wide-candidate": {
+    "path": "assets/media/sun-art36-wide-candidate.png",
+    "width": 1600,
+    "height": 900,
+    "revision": "00fff55b6f90",
+    "buildVersion": 36,
+    "label": "Zon · overzicht · visuele proef 36 met nieuwe details aan · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+  },
+  "moon-art36-instrument-baseline": {
+    "path": "assets/media/moon-art36-instrument-baseline.png",
+    "width": 1600,
+    "height": 900,
+    "revision": "e5cc29c0f118",
+    "buildVersion": 36,
+    "label": "Maan · instrumentdetail · visuele proef 36 met nieuwe details uit · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+  },
+  "moon-art36-instrument-candidate": {
+    "path": "assets/media/moon-art36-instrument-candidate.png",
+    "width": 1600,
+    "height": 900,
+    "revision": "6e98683f339e",
+    "buildVersion": 36,
+    "label": "Maan · instrumentdetail · visuele proef 36 met nieuwe details aan · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
   }
 }

@@ -1,5 +1,160 @@
 [
   {
+    "slug": "zeven-werelden-krijgen-meer-vorm-build-36-in-voorbereiding",
+    "title": "Zeven werelden krijgen meer vorm: kandidaat 36 staat klaar",
+    "date": "2026-10-16",
+    "category": "Visuele ontwikkeling en vergelijkingsbeelden",
+    "image": "mercury-art36-wide-candidate",
+    "imageCaption": "Mercurius · overzicht met de nieuwe details van visuele proef 36 · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld",
+    "excerpt": "Een open prieel, een groen kristal en beter gegronde instrumenten geven zeven werelden meer vorm. Kandidaat 36 staat lokaal klaar als gecontroleerd Android-pakket met OBB-databestand. Build 35 blijft op de test-Quest voor de latere praktijktest.",
+    "sections": [
+      {
+        "title": "Kandidaat 36 staat afzonderlijk klaar",
+        "paragraphs": [
+          "Visuele proef 36 werkt herkenbare instrumenten en kleine architectuurdetails in zeven werelden uit. Alle zeven overzichtsparen en het extra detailpaar van de Maan zijn beoordeeld. De zestien PNG-beelden behouden de oorspronkelijke screenshotpixels.",
+          "Alle 42 gerichte Unreal-controles slagen: 41 zonder waarschuwing en één met een bestaande waarschuwing. Het Android-pakket en bijbehorende OBB-databestand zijn gebouwd en gecontroleerd. De handtekening sluit aan op build 35; ook de meegeleverde inhoud en versie zijn geverifieerd.",
+          "Kandidaat 36 staat afzonderlijk lokaal klaar. Build 35 blijft op de test-Quest voor de latere praktijktest; Meta-ALPHA bevat build 31."
+        ]
+      },
+      {
+        "title": "Wat baseline en nieuwe uitvoering betekenen",
+        "paragraphs": [
+          "Elk paar gebruikt dezelfde ontwikkelcode van versie 36 en dezelfde camera-instellingen. In de baseline staan de nieuwe details van deze pass uit; bij de nieuwe uitvoering staan ze aan. De baseline is dus geen opname van build 35. Dynamische wolken kunnen tussen afzonderlijke opnamen verschillen; hemel en belichting zijn behouden.",
+          "Dit zijn mobiele Unreal-previews op Windows met ES3.1, geen Quest-beelden. Stereo, fysieke leesbaarheid, speelcomfort en framerate vragen nog een test in de gedragen headset."
+        ]
+      },
+      {
+        "title": "Saturnus: een open prieel naast de gids",
+        "paragraphs": [
+          "Een open prieel met dertien onderdelen geeft de plek naast de gids meer samenhang: smalle staanders, een dun dak, een zitplek en een klein instrument. De zijkanten blijven open. In de gecontroleerde vergelijking sluit de voet op het terrein aan en blijft de constructie vrij van bestaande rotsen. Gids en route behouden hun plek."
+        ],
+        "images": [
+          {
+            "image": "saturn-art36-wide-baseline",
+            "caption": "Saturnus · overzicht met de nieuwe details van proef 36 uit · dezelfde ontwikkelcode · mobiele Windows-preview (ES3.1), geen headsetbeeld"
+          },
+          {
+            "image": "saturn-art36-wide-candidate",
+            "caption": "Saturnus · overzicht met de nieuwe details van proef 36 aan · mobiele Windows-preview (ES3.1), geen headsetbeeld"
+          }
+        ]
+      },
+      {
+        "title": "Aarde: een kleine omlijsting op het platform",
+        "paragraphs": [
+          "Een smalle stenen omlijsting met metaalinleg geeft het bestaande planeetsymbool een herkenbare voet op het dek. Het volledige symbool blijft zichtbaar. Deze kleine architectuurpass behoudt het planeetbeeld, de zwarte achtergrond, de aanwezige zwevende vormen en het vlieggedrag."
+        ],
+        "images": [
+          {
+            "image": "earth-art36-wide-baseline",
+            "caption": "Aarde · overzicht met de nieuwe details van proef 36 uit · dezelfde ontwikkelcode · mobiele Windows-preview (ES3.1), geen headsetbeeld"
+          },
+          {
+            "image": "earth-art36-wide-candidate",
+            "caption": "Aarde · overzicht met de nieuwe details van proef 36 aan · mobiele Windows-preview (ES3.1), geen headsetbeeld"
+          }
+        ]
+      },
+      {
+        "title": "Mercurius: een groen kristal en herkenbare spiegelranden",
+        "paragraphs": [
+          "Een groen, ondoorzichtig kristal met zes vlakke facetten vervangt de zichtbare felgloeiende kegel. Een lage stenen voet draagt de vorm en de voortgangstekst blijft vrij.",
+          "Dunne metalen randen volgen de drie echte spiegelobjecten. Hun fysieke vorm, aslijnen en nummers blijven behouden. Vanuit de overzichtscamera zijn de randen subtiel."
+        ],
+        "images": [
+          {
+            "image": "mercury-art36-wide-baseline",
+            "caption": "Mercurius · overzicht met de nieuwe details van proef 36 uit · dezelfde ontwikkelcode · mobiele Windows-preview (ES3.1), geen headsetbeeld"
+          },
+          {
+            "image": "mercury-art36-wide-candidate",
+            "caption": "Mercurius · overzicht met de nieuwe details van proef 36 aan · mobiele Windows-preview (ES3.1), geen headsetbeeld"
+          }
+        ]
+      },
+      {
+        "title": "Mars: gegronde voeten onder de instrumenten",
+        "paragraphs": [
+          "Getrapte stenen voeten verbinden de drie instrumentplaten duidelijker met de vloer. Dunne ijzeren randen omlijsten de heldere vlakken. De voortgangstekst blijft vrij; de echte stafcontacten, proefvoorwaarden en bestaande toestandssignalen blijven onderdeel van de proef."
+        ],
+        "images": [
+          {
+            "image": "mars-art36-wide-baseline",
+            "caption": "Mars · overzicht met de nieuwe details van proef 36 uit · dezelfde ontwikkelcode · mobiele Windows-preview (ES3.1), geen headsetbeeld"
+          },
+          {
+            "image": "mars-art36-wide-candidate",
+            "caption": "Mars · overzicht met de nieuwe details van proef 36 aan · mobiele Windows-preview (ES3.1), geen headsetbeeld"
+          }
+        ]
+      },
+      {
+        "title": "Maan: lagere kaders voor bron en weerspiegeling",
+        "paragraphs": [
+          "Lagere, bijpassende bogen met verbonden voeten onderscheiden bronplekken en weerspiegelde ontvangende plekken. De BRON-, SPIEGEL- en Plek-regels blijven vrij boven de bogen. De echte spiegelobjecten, nummers en volgordevoorwaarden blijven behouden.",
+          "De gerichte detailcamera brengt de instrumenten en volgorderegels binnen hun bestaande zichtafstand. De algemene instructies staan vlak bij deze camera en verschijnen daardoor groot op de voorgrond. Overzicht en detail vullen elkaar hier aan."
+        ],
+        "images": [
+          {
+            "image": "moon-art36-wide-baseline",
+            "caption": "Maan · overzicht met de nieuwe details van proef 36 uit · dezelfde ontwikkelcode · mobiele Windows-preview (ES3.1), geen headsetbeeld"
+          },
+          {
+            "image": "moon-art36-wide-candidate",
+            "caption": "Maan · overzicht met de nieuwe details van proef 36 aan · mobiele Windows-preview (ES3.1), geen headsetbeeld"
+          },
+          {
+            "image": "moon-art36-instrument-baseline",
+            "caption": "Maan · gerichte detailcamera met nieuwe details uit · de dichtbijstaande algemene instructies verschijnen groot op de voorgrond · mobiele Windows-preview (ES3.1)"
+          },
+          {
+            "image": "moon-art36-instrument-candidate",
+            "caption": "Maan · gerichte detailcamera met nieuwe details aan · bron-, spiegel- en plekregels vrij boven de lagere bogen; algemene instructies groot op de voorgrond · mobiele Windows-preview (ES3.1)"
+          }
+        ]
+      },
+      {
+        "title": "Jupiter: steunen voor het bestaande open rad",
+        "paragraphs": [
+          "Twee smalle steunen met aslagers verbinden de zijkanten van de bestaande open armillairsfeer met de vloer. De sokkelfronten en voortgangstekst blijven vrij. De ringen, heldere materialen en echte tinproef zijn behouden."
+        ],
+        "images": [
+          {
+            "image": "jupiter-art36-wide-baseline",
+            "caption": "Jupiter · overzicht met de nieuwe details van proef 36 uit · dezelfde ontwikkelcode · mobiele Windows-preview (ES3.1), geen headsetbeeld"
+          },
+          {
+            "image": "jupiter-art36-wide-candidate",
+            "caption": "Jupiter · overzicht met de nieuwe details van proef 36 aan · mobiele Windows-preview (ES3.1), geen headsetbeeld"
+          }
+        ]
+      },
+      {
+        "title": "Zon: dunne lijsten en een open vaatrand",
+        "paragraphs": [
+          "Dunne stenen lijsten en metaalstrepen werken de brede bovendorpel af. Een lage voet en open vaatrand geven het laatste instrument meer vorm. Het bestaande symbool en de voortgangstekst blijven zichtbaar; zonnewijzer en zegel behouden hun plaats en werking."
+        ],
+        "images": [
+          {
+            "image": "sun-art36-wide-baseline",
+            "caption": "Zon · overzicht met de nieuwe details van proef 36 uit · dezelfde ontwikkelcode · mobiele Windows-preview (ES3.1), geen headsetbeeld"
+          },
+          {
+            "image": "sun-art36-wide-candidate",
+            "caption": "Zon · overzicht met de nieuwe details van proef 36 aan · mobiele Windows-preview (ES3.1), geen headsetbeeld"
+          }
+        ]
+      },
+      {
+        "title": "Klaar voor een volgende test",
+        "paragraphs": [
+          "Het gecontroleerde Android-pakket en het bijbehorende databestand van kandidaat 36 blijven lokaal beschikbaar. Build 35 blijft geïnstalleerd voor de geplande praktijktest. De volgende hardwarecontrole volgt de opstart, complete route, instrumentbediening en het gevoel van de grijpfeedback. De optionele Android-gespreksmodus blijft uit.",
+          "De testpagina houdt de geïnstalleerde versie en het Meta-kanaal apart bij. De conceptbeelden blijven de ontwerprichting voor verdere uitwerking."
+        ]
+      }
+    ]
+  },
+  {
     "slug": "build-35-op-quest-portaalranden-grijpfeedback-en-spraak",
     "title": "Build 35 op Quest: portaalranden, grijpfeedback en spraak",
     "date": "2026-10-16",
