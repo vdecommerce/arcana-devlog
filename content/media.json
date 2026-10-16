@@ -396,5 +396,37 @@
     "revision": "2c0213052b7b",
     "buildVersion": 30,
     "label": "Menu-uitbreiding voor build 30 · mobiele Unreal-preview op Windows · geen headsetbeeld"
+  },
+  "venus-portal-wide-baseline35": {
+    "path": "assets/media/venus-portal-wide-baseline35.png",
+    "width": 1600,
+    "height": 900,
+    "revision": "75b9fda1d0ea",
+    "buildVersion": 35,
+    "label": "Venus · overzicht zonder rand · portaalproef 35 · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+  },
+  "venus-portal-wide-framed35": {
+    "path": "assets/media/venus-portal-wide-framed35.png",
+    "width": 1600,
+    "height": 900,
+    "revision": "fdcf34ed528c",
+    "buildVersion": 35,
+    "label": "Venus · overzicht met rand · portaalproef 35 · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+  },
+  "venus-portal-close-baseline35": {
+    "path": "assets/media/venus-portal-close-baseline35.png",
+    "width": 1600,
+    "height": 900,
+    "revision": "f5b6e4d135f4",
+    "buildVersion": 35,
+    "label": "Venus · detail zonder rand · portaalproef 35 · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+  },
+  "venus-portal-close-framed35": {
+    "path": "assets/media/venus-portal-close-framed35.png",
+    "width": 1600,
+    "height": 900,
+    "revision": "828100dfd4f6",
+    "buildVersion": 35,
+    "label": "Venus · detail met rand · portaalproef 35 · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
   }
 }

@@ -1,5 +1,72 @@
 [
   {
+    "slug": "build-35-op-quest-portaalranden-grijpfeedback-en-spraak",
+    "title": "Build 35 op Quest: portaalranden, grijpfeedback en spraak",
+    "date": "2026-10-16",
+    "category": "Quest-ontwikkeling en teststatus",
+    "image": "venus-portal-wide-framed35",
+    "imageCaption": "Venus · overzicht met rand · portaalproef 35 · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld",
+    "excerpt": "Build 35 staat op de test-Quest met nieuwe portaalranden op Venus, korte grijpfeedback en een optionele spraakmodus. De technische controles slagen; de beoordeling in de gedragen headset volgt nog.",
+    "sections": [
+      {
+        "title": "Van de gidsroute naar build 35",
+        "paragraphs": [
+          "Build 35 is als update over build 34 op de test-Quest geïnstalleerd. Bestaande voortgang, de gidsroute en de voorbereide gesprekstoegang blijven behouden. Het wereldmenu met de actuele opdrachtkaart blijft onderdeel van de reis.",
+          "De opstart van build 35 is nog niet in de gedragen headset beoordeeld. Een eerdere koude start van build 34 met een wakkere headset slaagt; bij een tweede controle laadt de wereld en blijft het spelproces actief, maar gaat de headset slapen. Die ronde is daardoor niet beslissend. In die controles is geen fatale fout vastgesteld. De eerder gemelde opstartproblemen zijn hiermee nog niet als opgelost bevestigd."
+        ]
+      },
+      {
+        "title": "Een rand om de portalen van Venus",
+        "paragraphs": [
+          "Build 35 geeft de twee bestaande portalen op Venus een rand van steen en koper. De rand volgt de opening en gebruikt materialen die al in de wereld aanwezig zijn. Het blauwe portaal blijft zichtbaar.",
+          "Reisbestemmingen, de afstand waarbinnen je een portaal kunt bedienen en de voorwaarden van de proeven blijven gelijk. De rand krijgt geen eigen botsing of schaduw. Vier mobiele Unreal-previews op Windows zijn gecontroleerd: een overzicht en een detail, telkens met en zonder rand. De controle telt twee randen in de nieuwe uitvoering en geen extra randen in de vergelijking zonder rand; er zijn geen botsings-, inleg- of randfouten gevonden.",
+          "De beelden hieronder gebruiken dezelfde camera-instellingen per vergelijking. In het overzicht blijft de proefuitleg zichtbaar; het detail laat de omranding van dichtbij zien. Dit zijn Windows-previews op ES3.1. De daadwerkelijke portaalbediening, stereo en leesbaarheid van build 35 moeten nog met de headset op worden bevestigd."
+        ],
+        "images": [
+          {
+            "image": "venus-portal-wide-baseline35",
+            "caption": "Venus · overzicht zonder rand · portaalproef 35 · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+          },
+          {
+            "image": "venus-portal-wide-framed35",
+            "caption": "Venus · overzicht met rand · portaalproef 35 · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+          },
+          {
+            "image": "venus-portal-close-baseline35",
+            "caption": "Venus · detail zonder rand · portaalproef 35 · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+          },
+          {
+            "image": "venus-portal-close-framed35",
+            "caption": "Venus · detail met rand · portaalproef 35 · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+          }
+        ]
+      },
+      {
+        "title": "Duidelijker voelen wat je vasthoudt",
+        "paragraphs": [
+          "Bij een geslaagde greep geeft build 35 een korte, duidelijkere controllertrilling van 60 milliseconden. Bewust loslaten krijgt een zachtere trilling. Een lege grijppoging, vasthouden, handtracking, menugebruik of verlies van tracking veroorzaakt deze pulsen niet.",
+          "De bestaande voorwaarden van de proeven blijven leidend. De technische controles slagen, maar hoe duidelijk en prettig de nieuwe feedback voelt, moet nog met de gedragen headset worden beoordeeld."
+        ]
+      },
+      {
+        "title": "Een optionele spraakmodus voor echobeperking",
+        "paragraphs": [
+          "De eerdere draadloze proef met de Kluizenaar werkte op een vooraf voorbereide Quest: Nederlandse vragen, hoorbare antwoorden en een bewegende mond. De microfoon opent al na bewuste activering met A. Wifi en apart ingestelde gesprekstoegang blijven nodig.",
+          "Build 35 voegt een optionele Android-gespreksmodus toe om echobeperking te onderzoeken. Deze optie staat uit; de bestaande microfoonroute blijft de standaard. De test meldt of Android echobeperking beschikbaar en ingeschakeld is en controleert dat stoppen of omschakelen geen tweede microfoonroute laat doorlopen. Of dit hoorbare echo vermindert, moet nog worden getest.",
+          "De vijftien gerichte Java-controles voor deze route slagen. De optionele modus is nog niet in een echt gesprek op de headset beoordeeld. Ook stoppen, opnieuw verbinden en langere gesprekken blijven praktijktestpunten."
+        ]
+      },
+      {
+        "title": "Geïnstalleerd, technisch gecontroleerd, nog te spelen",
+        "paragraphs": [
+          "Build 35 is gebouwd, verpakt en op de test-Quest geïnstalleerd. Alle 35 gerichte Unreal-controles slagen: 34 zonder waarschuwing en één met een bestaande menuwaarschuwing. Er zijn geen mislukte of overgeslagen tests. Daarnaast slagen 15 Java-controles voor de spraakroute.",
+          "De vier mobiele vergelijkingsbeelden zijn gecontroleerd. Technische controles en Windows-previews bevestigen geen speelcomfort. De volgende ronde in de gedragen headset moet onder meer de opstart, portaalbediening, het gevoel van de grijpfeedback en de optionele gespreksmodus beoordelen.",
+          "Het privé-ALPHA-kanaal op Meta bevat build 31. De automatische Meta-tests van die versie zijn voltooid. Build 35 is nog niet op dat kanaal gepubliceerd. De actuele testpagina houdt de beschikbare versie en de openstaande headsetcontroles bij. Historische ontwikkelartikelen blijven de stand op hun eigen publicatiedatum beschrijven."
+        ]
+      }
+    ]
+  },
+  {
     "slug": "de-kluizenaar-praat-draadloos-en-het-menu-wijst-de-weg",
     "title": "De Kluizenaar praat draadloos, het menu wijst de weg",
     "date": "2026-10-15",
