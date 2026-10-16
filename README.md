@@ -4,7 +4,7 @@ Publieke website: https://vdecommerce.github.io/arcana-devlog/
 
 Deze aparte repository bevat de website en geselecteerde, geoptimaliseerde beelden. Het Unreal-project en de gamebuilds staan hier niet in.
 
-Actuele lokale teststand: build 37 is als update op de Quest geïnstalleerd, met behoud van de gespreksinstellingen. De versie corrigeert de voorbeeldregel in het gesprekspaneel en bevat de visuele uitwerking van 36. Alle 43 Unreal-controles slagen (42 schoon en één bestaande waarschuwing). De visuele headsetcontrole van deze correctie loopt nog; Meta-ALPHA blijft op 31. De onderstaande oudere mijlpalen beschrijven de stand bij hun eigen publicatie.
+Actuele lokale teststand: build 37 is als update op de Quest geïnstalleerd, met behoud van de gespreksinstellingen. De versie corrigeert de voorbeeldregel in het gesprekspaneel en bevat de visuele uitwerking van 36. Alle 43 Unreal-controles slagen (42 schoon en één bestaande waarschuwing). De tester bevestigt in de headset normale instructies in het gesprekspaneel; deze zichtbare correctie is daarmee bevestigd. De verdere speelronde blijft open en Meta-ALPHA blijft op 31. De onderstaande oudere mijlpalen beschrijven de stand bij hun eigen publicatie.
 
 ## Lokaal bekijken
 
