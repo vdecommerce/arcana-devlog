@@ -1,5 +1,44 @@
 [
   {
+    "slug": "build-41-quest-tests-en-duidelijkere-proeven",
+    "title": "Build 41: duidelijkere proeven en geslaagde Quest-tests",
+    "date": "2026-10-26",
+    "category": "Quest-ontwikkeling en technische tests",
+    "image": "lead-gate-prototype-blender-20261026",
+    "imageCaption": "Blender-preview van een afzonderlijk poortprototype; geen spel- of headsetbeeld; nog niet opgenomen in build 41.",
+    "excerpt": "Gerichte aanwijzingen bij De Twee Stromen, een vloeiender Loodpoort en geslaagde automatische tests op de Quest. Daarnaast krijgt een zuinig poortmodel vorm.",
+    "sections": [
+      {
+        "title": "Duidelijkere aanwijzingen tijdens het spelen",
+        "paragraphs": [
+          "De Twee Stromen herkent wanneer Helderheid en Warmte op de verkeerde sokkel liggen. De tekst wijst naar de juiste bestemming en helpt ook tijdens het dragen. De fysieke proefvoorwaarden blijven gelijk.",
+          "De Loodpoort versnelt vanuit stilstand en remt af bij het openen. De botsing volgt de zichtbare vrije doorgang. De bestaande plaatsingsring blijft de werkelijke voortgang tonen."
+        ]
+      },
+      {
+        "title": "Nu ook technische tests op de Quest",
+        "paragraphs": [
+          "Build 41 is als update op de test-Quest geïnstalleerd. Alle 17 gerichte Linux-regressietests slagen, waaronder controles op verkeerde plaatsingen en de vrije doorgang onder de poort.",
+          "Op de Quest slagen vier automatische gameplaytests. Een afzonderlijke testopslag is geschreven, na een volledige app-herstart teruggelezen en samengevoegd zonder testgegevens te verliezen. Daarna is uitsluitend die testopslag verwijderd. Er werd geen bestaande reisopslag aangetroffen; dit bewijst dus nog niet dat een door de speler voltooide reis correct wordt hervat.",
+          "Deze technische tests gebruiken de Quest zelf, maar draaien zonder actieve headsettracking. Na afloop is Arcana met normale VR-instellingen gestart en bereikte de app een actieve VR-sessie. Comfort, zicht in beide ogen van build 41 en gemeten VR-prestaties vragen nog een afzonderlijke beoordeling. Bij build 38 waren beide ogen, de ring en de Loodpoort al door de tester bevestigd."
+        ]
+      },
+      {
+        "title": "Een lichtgewicht poortmodel in voorbereiding",
+        "paragraphs": [
+          "Het nieuwe prototype combineert brede reliëfpanelen met ingetogen gouden inleg. Het detailmodel telt 488 driehoeken; een afzonderlijke eenvoudiger variant telt 232. De Unreal-import controleert de schaal, de twee bestaande materialen en één convexe botsingsvorm.",
+          "Het beeld bij dit artikel is een Blender-preview. Het model staat afzonderlijk in het project, is nog niet gekoppeld aan de gameplay en zit niet in build 41. De visuele beoordeling in Unreal en op de headset volgt nog."
+        ]
+      },
+      {
+        "title": "Lokale testversie en Meta-kanaal",
+        "paragraphs": [
+          "Build 41 staat op de lokale test-Quest. De laatst vastgelegde Meta-ALPHA-versie blijft build 31; bij deze website-update wordt geen gamebuild naar Meta gepubliceerd. Historische wereldbeelden houden hun oorspronkelijke versie- en herkomstlabels."
+        ]
+      }
+    ]
+  },
+  {
     "slug": "zeven-werelden-krijgen-meer-vorm-build-36-in-voorbereiding",
     "title": "Zeven werelden krijgen meer vorm: kandidaat 36 staat klaar",
     "date": "2026-10-16",
