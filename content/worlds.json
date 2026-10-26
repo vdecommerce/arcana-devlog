@@ -12,10 +12,10 @@
     "intent": "Indigo schemering, verweerde steen en warm goud. De Kluizenaar vormt het rustige beginpunt van de reis, met de geringde planeet als anker in de verte.",
     "current": "Een open prieel naast de bestaande boog brengt staanders, een dun dak, een lage zitplek en een klein instrument samen. De dertien onderdelen laten de zijkanten open. In de gecontroleerde mobiele vergelijking sluit de voet op het terrein aan en blijft de constructie vrij van bestaande rotsen. De gids, route en oorspronkelijke hemel zijn behouden.",
     "buildVersion": 36,
-    "next": "De aansluiting op het terrein, route en gidsframing in de gedragen headset beoordelen.",
-    "updated": "2026-10-16",
-    "renderNote": "Gecontroleerde mobiele Unreal-preview op Windows (ES3.1) van visuele proef 36. Build 37 bevat deze visuele uitwerking op de test-Quest; stereo, leesbaarheid, comfort en framerate volgen in de headsettest.",
-    "playStatus": "De tester bevestigt een doorlopend Nederlands gesprek met de Kluizenaar en mondbeweging zonder USB op een voorbereide Quest. De spraakserver staat los van de ontwikkel-pc; wifi en Tailscale zijn nodig. Build 31 neemt ook de actuele opdrachtkaart mee en stelt de mond iets ruimer af."
+    "next": "Build 41 in de gedragen headset beoordelen en VR-frametijden meten. Het afzonderlijke poortprototype eerst visueel in Unreal beoordelen.",
+    "updated": "2026-10-26",
+    "renderNote": "Historische mobiele Unreal-preview op Windows (ES3.1) van visuele proef 36. Dit beeld toont niet de nieuwe code van build 41 of het afzonderlijke poortprototype.",
+    "playStatus": "Bij build 38 bevestigde de tester goed beeld in beide ogen en een werkende ring en Loodpoort. Build 41 verfijnt de poortbeweging en aanwijzingen bij De Twee Stromen. De automatische Quest-tests slagen; een gedragen speelronde van deze versie en gemeten VR-prestaties blijven open."
   },
   {
     "slug": "venus",

@@ -556,5 +556,12 @@
     "revision": "6e98683f339e",
     "buildVersion": 36,
     "label": "Maan · instrumentdetail · visuele proef 36 met nieuwe details aan · mobiele Unreal-preview op Windows (ES3.1), geen headsetbeeld"
+  },
+  "lead-gate-prototype-blender-20261026": {
+    "path": "assets/media/lead-gate-prototype-blender-20261026.png",
+    "width": 1120,
+    "height": 840,
+    "revision": "4418e601b6b8",
+    "label": "Blender-preview van een afzonderlijk poortprototype; geen spel- of headsetbeeld"
   }
 }
